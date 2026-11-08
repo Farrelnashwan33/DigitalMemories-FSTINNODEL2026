@@ -1,0 +1,290 @@
+@import 'tailwindcss';
+
+:root {
+	/* Core Brand Palette (R-29: 3 core colors + 1 accent):
+	   Forest Pine, Dark Sunda Teal, Warm Travertine Beige, Antique Gold */
+	--canvas-light: #f5f0e6;
+	--canvas-dark: #0c211d;
+
+	--surface-light: #fdfbf7;
+	--surface-dark: #132e29;
+
+	--surface-elevated-light: #ece3d2;
+	--surface-elevated-dark: #193b35;
+
+	--border-light: #d3c7b0;
+	--border-dark: #274f47;
+
+	--ink-light: #112622;
+	--ink-dark: #f2ecde;
+
+	--ink-muted-light: #3f5852;
+	--ink-muted-dark: #b9cbc3;
+
+	--brand-pine-light: #113e36;
+	--brand-pine-dark: #e5bd68;
+
+	--brand-pine-fg-light: #fcf9f2;
+	--brand-pine-fg-dark: #102420;
+
+	--accent-gold-light: #7a5308;
+	--accent-gold-dark: #e5bd68;
+
+	/* Adaptive Architectural Surface Tokens */
+	--nav-bg-light: rgba(252, 249, 242, 0.88);
+	--nav-bg-dark: rgba(12, 36, 32, 0.84);
+	--nav-border-light: rgba(17, 62, 54, 0.16);
+	--nav-border-dark: rgba(244, 239, 230, 0.2);
+	--nav-chip-light: rgba(17, 62, 54, 0.08);
+	--nav-chip-dark: rgba(244, 239, 230, 0.13);
+	--nav-chip-hover-light: rgba(17, 62, 54, 0.15);
+	--nav-chip-hover-dark: rgba(244, 239, 230, 0.23);
+
+	--hero-scrim-light: linear-gradient(
+		180deg,
+		rgba(245, 240, 230, 0.34) 0%,
+		rgba(245, 240, 230, 0.62) 42%,
+		rgba(245, 240, 230, 0.95) 74%,
+		#f5f0e6 100%
+	);
+	--hero-scrim-dark: linear-gradient(
+		180deg,
+		rgba(11, 36, 42, 0.66) 0%,
+		rgba(11, 33, 29, 0.48) 38%,
+		rgba(8, 25, 22, 0.94) 76%,
+		#0c211d 100%
+	);
+
+	--showcase-wash-light: linear-gradient(
+		180deg,
+		#f5f0e6 0%,
+		rgba(235, 227, 212, 0.82) 20%,
+		rgba(225, 233, 227, 0.82) 80%,
+		#f5f0e6 100%
+	);
+	--showcase-wash-dark: linear-gradient(
+		180deg,
+		#0c211d 0%,
+		rgba(16, 61, 69, 0.84) 20%,
+		rgba(18, 44, 38, 0.84) 80%,
+		#0c211d 100%
+	);
+
+	--showcase-glass-light: rgba(253, 251, 247, 0.84);
+	--showcase-glass-dark: rgba(18, 45, 39, 0.82);
+
+	--footer-bg-light: #e8dfd0;
+	--footer-bg-dark: #081916;
+
+	/* Default Light Fallback Tokens */
+	--canvas: var(--canvas-light);
+	--surface: var(--surface-light);
+	--surface-elevated: var(--surface-elevated-light);
+	--border-subtle: var(--border-light);
+	--ink: var(--ink-light);
+	--ink-muted: var(--ink-muted-light);
+	--brand-action: var(--brand-pine-light);
+	--brand-action-fg: var(--brand-pine-fg-light);
+	--accent-gold: var(--accent-gold-light);
+	--nav-bg: var(--nav-bg-light);
+	--nav-border: var(--nav-border-light);
+	--nav-chip: var(--nav-chip-light);
+	--nav-chip-hover: var(--nav-chip-hover-light);
+	--hero-scrim: var(--hero-scrim-light);
+	--showcase-wash: var(--showcase-wash-light);
+	--showcase-glass: var(--showcase-glass-light);
+	--footer-bg: var(--footer-bg-light);
+
+	color-scheme: light dark;
+	accent-color: var(--brand-action);
+	scroll-behavior: smooth;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--canvas: var(--canvas-dark);
+		--surface: var(--surface-dark);
+		--surface-elevated: var(--surface-elevated-dark);
+		--border-subtle: var(--border-dark);
+		--ink: var(--ink-dark);
+		--ink-muted: var(--ink-muted-dark);
+		--brand-action: var(--brand-pine-dark);
+		--brand-action-fg: var(--brand-pine-fg-dark);
+		--accent-gold: var(--accent-gold-dark);
+		--nav-bg: var(--nav-bg-dark);
+		--nav-border: var(--nav-border-dark);
+		--nav-chip: var(--nav-chip-dark);
+		--nav-chip-hover: var(--nav-chip-hover-dark);
+		--hero-scrim: var(--hero-scrim-dark);
+		--showcase-wash: var(--showcase-wash-dark);
+		--showcase-glass: var(--showcase-glass-dark);
+		--footer-bg: var(--footer-bg-dark);
+	}
+}
+
+@supports (color: light-dark(white, black)) {
+	:root {
+		--canvas: light-dark(var(--canvas-light), var(--canvas-dark));
+		--surface: light-dark(var(--surface-light), var(--surface-dark));
+		--surface-elevated: light-dark(var(--surface-elevated-light), var(--surface-elevated-dark));
+		--border-subtle: light-dark(var(--border-light), var(--border-dark));
+		--ink: light-dark(var(--ink-light), var(--ink-dark));
+		--ink-muted: light-dark(var(--ink-muted-light), var(--ink-muted-dark));
+		--brand-action: light-dark(var(--brand-pine-light), var(--brand-pine-dark));
+		--brand-action-fg: light-dark(var(--brand-pine-fg-light), var(--brand-pine-fg-dark));
+		--accent-gold: light-dark(var(--accent-gold-light), var(--accent-gold-dark));
+		--nav-bg: light-dark(var(--nav-bg-light), var(--nav-bg-dark));
+		--nav-border: light-dark(var(--nav-border-light), var(--nav-border-dark));
+		--nav-chip: light-dark(var(--nav-chip-light), var(--nav-chip-dark));
+		--nav-chip-hover: light-dark(var(--nav-chip-hover-light), var(--nav-chip-hover-dark));
+		--footer-bg: light-dark(var(--footer-bg-light), var(--footer-bg-dark));
+	}
+}
+
+/* Explicit User Theme Overrides (placed AFTER @supports so manual toggle ALWAYS wins across all engines) */
+:root[data-theme='dark'],
+:root:has(> head > meta[name='color-scheme'][content='dark']) {
+	color-scheme: dark;
+	--canvas: var(--canvas-dark);
+	--surface: var(--surface-dark);
+	--surface-elevated: var(--surface-elevated-dark);
+	--border-subtle: var(--border-dark);
+	--ink: var(--ink-dark);
+	--ink-muted: var(--ink-muted-dark);
+	--brand-action: var(--brand-pine-dark);
+	--brand-action-fg: var(--brand-pine-fg-dark);
+	--accent-gold: var(--accent-gold-dark);
+	--nav-bg: var(--nav-bg-dark);
+	--nav-border: var(--nav-border-dark);
+	--nav-chip: var(--nav-chip-dark);
+	--nav-chip-hover: var(--nav-chip-hover-dark);
+	--hero-scrim: var(--hero-scrim-dark);
+	--showcase-wash: var(--showcase-wash-dark);
+	--showcase-glass: var(--showcase-glass-dark);
+	--footer-bg: var(--footer-bg-dark);
+}
+
+:root[data-theme='light'],
+:root:has(> head > meta[name='color-scheme'][content='light']) {
+	color-scheme: light;
+	--canvas: var(--canvas-light);
+	--surface: var(--surface-light);
+	--surface-elevated: var(--surface-elevated-light);
+	--border-subtle: var(--border-light);
+	--ink: var(--ink-light);
+	--ink-muted: var(--ink-muted-light);
+	--brand-action: var(--brand-pine-light);
+	--brand-action-fg: var(--brand-pine-fg-light);
+	--accent-gold: var(--accent-gold-light);
+	--nav-bg: var(--nav-bg-light);
+	--nav-border: var(--nav-border-light);
+	--nav-chip: var(--nav-chip-light);
+	--nav-chip-hover: var(--nav-chip-hover-light);
+	--hero-scrim: var(--hero-scrim-light);
+	--showcase-wash: var(--showcase-wash-light);
+	--showcase-glass: var(--showcase-glass-light);
+	--footer-bg: var(--footer-bg-light);
+}
+
+@media (prefers-reduced-motion: reduce) {
+	:root {
+		scroll-behavior: auto;
+	}
+	*,
+	*::before,
+	*::after {
+		animation-duration: 0.01ms !important;
+		animation-iteration-count: 1 !important;
+		transition-duration: 0.01ms !important;
+	}
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+	overflow-x: clip;
+	background-color: var(--canvas);
+	color: var(--ink);
+	font-family:
+		'Plus Jakarta Sans',
+		system-ui,
+		-apple-system,
+		sans-serif;
+	-webkit-font-smoothing: antialiased;
+	transition:
+		background-color 0.22s ease,
+		color 0.22s ease;
+}
+
+.font-editorial {
+	font-family: 'Cormorant Garamond', Georgia, serif;
+}
+
+/* Visible keyboard focus ring (R-32) */
+:focus-visible {
+	outline: 2px solid var(--accent-gold);
+	outline-offset: 2px;
+}
+
+/* Hidden scrollbar utility for horizontal photo filmstrips */
+.no-scrollbar {
+	scrollbar-width: none;
+	-ms-overflow-style: none;
+}
+.no-scrollbar::-webkit-scrollbar {
+	display: none;
+}
+
+/* Native top-layer modal dialog rules per modern-web-guidance */
+dialog.lightbox-dialog {
+	padding: 0;
+	margin: auto;
+	border: none;
+	background: transparent;
+	max-width: min(1240px, calc(100dvw - 12px));
+	max-height: calc(100dvh - 12px);
+	width: 100%;
+	color: #f4efe6;
+}
+dialog.lightbox-dialog:modal {
+	overscroll-behavior: contain;
+}
+dialog.lightbox-dialog::backdrop {
+	background-color: rgba(7, 19, 17, 0.92);
+	overflow: hidden;
+	overscroll-behavior: contain;
+}
+
+/* Glassmorphism strictly capped to 2 architectural elements (R-10):
+   1) .glass-navbar  2) .glass-showcase-frame */
+.glass-navbar {
+	background: var(--nav-bg);
+	backdrop-filter: blur(16px);
+	-webkit-backdrop-filter: blur(16px);
+	border: 1px solid var(--nav-border);
+	box-shadow: 0 10px 30px rgba(8, 22, 19, 0.14);
+}
+
+.glass-showcase-frame {
+	background: var(--showcase-glass);
+	backdrop-filter: blur(18px);
+	-webkit-backdrop-filter: blur(18px);
+	border: 1px solid var(--nav-border);
+	box-shadow: 0 18px 44px rgba(8, 22, 19, 0.12);
+}
+
+/* Shimmer skeleton for image loading state (R-27) */
+@keyframes pulseSurface {
+	0%,
+	100% {
+		opacity: 0.55;
+	}
+	50% {
+		opacity: 0.9;
+	}
+}
+.skeleton-pulse {
+	background-color: var(--surface-elevated);
+	animation: pulseSurface 1.6s ease-in-out infinite;
+}
