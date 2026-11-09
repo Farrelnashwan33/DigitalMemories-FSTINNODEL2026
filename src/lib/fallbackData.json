@@ -1,1 +1,1040 @@
-{"event":{"name":"INNODEL 2026","concept":"INNODEL \u00b7 DIGITAL MEMORIES 2026","subtitle":"A Collection of Moments, Memories & Innovation","faculty":"Faculty of Science and Technology","university":"Universitas Terbuka Bandung","dates":"November 4th-5th, 2026","venue":"El Hotel Bandung","statement":"Celebrating innovation, collaboration, and meaningful connections through unforgettable moments.","tagline":"Every Moment Has a Story."},"stats":{"total_published":32,"total_categories":5,"total_featured":12,"filtered_count":32},"categories":[{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony","description":"Penyambutan delegasi dan pembukaan konferensi internasional INNODEL 2026 di Ballroom El Hotel Bandung.","photos_count":6},{"id":2,"name":"Main Activities","slug":"main-activities","description":"Diskusi meja bundar, sesi pleno akademik, dan pemaparan inovasi pembelajaran terbuka jarak jauh.","photos_count":7},{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration","description":"Pertukaran gagasan lintas kampus, sesi bersama pembicara internasional, dan pameran karya mahasiswa.","photos_count":12},{"id":4,"name":"Behind The Scenes","slug":"behind-the-scenes","description":"Momen hangat persiapan dan kebersamaan peserta di sela agenda utama El Hotel Bandung.","photos_count":2},{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony","description":"Potret bersama delegasi Fakultas Sains dan Teknologi Universitas Terbuka Bandung menutup rangkaian acara.","photos_count":5}],"featured":[{"id":31,"title":"Salam Inovasi UT Bersama Pembicara Internasional","description":"Delegasi mahasiswa FST bersama pembicara kehormatan global berpose salam UT di depan panggung utama INNODEL 2026.","image_path":"photos\/full\/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp","width":1024,"height":576,"aspect_ratio":1.7778,"orientation":"landscape","is_featured":true,"sort_order":1,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":32,"title":"Keakraban Delegasi Muda FST Bersama Narasumber Global","description":"Suasana hangat dan penuh antusiasme mahasiswa UT berdiskusi santai bersama narasumber internasional.","image_path":"photos\/full\/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp","width":1024,"height":576,"aspect_ratio":1.7778,"orientation":"landscape","is_featured":true,"sort_order":2,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":33,"title":"Kebersamaan Civitas FST dan Pembicara Kehormatan Internasional","description":"Momen kolaborasi berharga delegasi sains dan teknologi dalam perhelatan akbar di El Hotel Bandung.","image_path":"photos\/full\/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp","width":1024,"height":576,"aspect_ratio":1.7778,"orientation":"landscape","is_featured":true,"sort_order":3,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":34,"title":"Diskusi Meja Bundar Civitas FST di Grand Ballroom","description":"Peserta mengenakan busana batik dan busana adat mengikuti jalannya seminar internasional di bawah keanggunan ruang ballroom.","image_path":"photos\/full\/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp","width":576,"height":1024,"aspect_ratio":0.5625,"orientation":"portrait","is_featured":true,"sort_order":4,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":35,"title":"Potret Kehormatan Dosen & Mahasiswa FST di Bawah Chandelier","description":"Formasi resmi dosen pendamping dan delegasi mahasiswa FST berpose di depan backdrop panggung utama El Hotel Bandung.","image_path":"photos\/full\/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp","width":576,"height":1024,"aspect_ratio":0.5625,"orientation":"portrait","is_featured":true,"sort_order":5,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":29,"title":"Sidang Pleno Akbar & Delegasi Internasional di Grand Ballroom","description":"Potret megah seluruh pimpinan, pembicara internasional, dan ratusan delegasi memadati Grand Ballroom El Hotel Bandung.","image_path":"photos\/full\/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp","width":1024,"height":682,"aspect_ratio":1.5015,"orientation":"landscape","is_featured":true,"sort_order":6,"published_at":"2026-11-09T00:18:51+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":30,"title":"Inovasi Produk & Semangat Mahasiswi FST UT Bandung","description":"Dua mahasiswi Fakultas Sains dan Teknologi memperlihatkan produk karya inovasi kreatif di stan pameran konferensi.","image_path":"photos\/full\/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp","width":682,"height":1024,"aspect_ratio":0.666,"orientation":"portrait","is_featured":true,"sort_order":7,"published_at":"2026-11-09T00:18:51+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":2,"title":"Swafoto Hangat Tim Delegasi & Panitia Muda FST","description":"Kekompakan mahasiswa Fakultas Sains dan Teknologi di sela persiapan sesi materi menggunakan perangkat laptop di ruang konferensi.","image_path":"photos\/full\/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp","width":769,"height":1024,"aspect_ratio":0.751,"orientation":"portrait","is_featured":true,"sort_order":8,"published_at":"2026-11-08T21:21:51+00:00","category":{"id":4,"name":"Behind The Scenes","slug":"behind-the-scenes"}},{"id":1,"title":"Jajaran Dosen & Pendamping Akademik di Panggung INNODEL 2026","description":"Formasi dosen Fakultas Sains dan Teknologi Universitas Terbuka Bandung berbusana batik seragam di depan latar resmi INNODEL 2026.","image_path":"photos\/full\/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp","width":1024,"height":768,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":9,"published_at":"2026-11-08T21:20:51+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":3,"title":"Kebersamaan Meja Bundar Civitas FST di Ballroom Utama","description":"Dosen dan mahasiswa FST UT Bandung berbusana adat Sunda serta batik Nusantara mengikuti rangkaian sidang pleno di El Hotel Bandung.","image_path":"photos\/full\/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp","width":768,"height":1024,"aspect_ratio":0.75,"orientation":"portrait","is_featured":true,"sort_order":10,"published_at":"2026-11-08T21:22:52+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":4,"title":"Formasi Delegasi Mahasiswa FST di Panggung Utama","description":"Sebelas perwakilan mahasiswa Fakultas Sains dan Teknologi mengabadikan momen kebersamaan di panggung konferensi internasional INNODEL 2026.","image_path":"photos\/full\/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp","width":1024,"height":768,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":11,"published_at":"2026-11-08T21:23:52+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":5,"title":"Potret Penuh Kolaborasi Dosen & Mahasiswa UT Bandung","description":"Kebersamaan lintas generasi civitas akademika FST UT Bandung menutup sesi konferensi di panggung utama El Hotel Bandung.","image_path":"photos\/full\/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp","width":768,"height":1024,"aspect_ratio":0.75,"orientation":"portrait","is_featured":true,"sort_order":12,"published_at":"2026-11-08T21:24:52+00:00","category":{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony"}}],"photos":[{"id":31,"title":"Salam Inovasi UT Bersama Pembicara Internasional","description":"Delegasi mahasiswa FST bersama pembicara kehormatan global berpose salam UT di depan panggung utama INNODEL 2026.","image_path":"photos\/full\/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp","width":1024,"height":576,"aspect_ratio":1.7778,"orientation":"landscape","is_featured":true,"sort_order":1,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":32,"title":"Keakraban Delegasi Muda FST Bersama Narasumber Global","description":"Suasana hangat dan penuh antusiasme mahasiswa UT berdiskusi santai bersama narasumber internasional.","image_path":"photos\/full\/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp","width":1024,"height":576,"aspect_ratio":1.7778,"orientation":"landscape","is_featured":true,"sort_order":2,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":33,"title":"Kebersamaan Civitas FST dan Pembicara Kehormatan Internasional","description":"Momen kolaborasi berharga delegasi sains dan teknologi dalam perhelatan akbar di El Hotel Bandung.","image_path":"photos\/full\/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp","width":1024,"height":576,"aspect_ratio":1.7778,"orientation":"landscape","is_featured":true,"sort_order":3,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":34,"title":"Diskusi Meja Bundar Civitas FST di Grand Ballroom","description":"Peserta mengenakan busana batik dan busana adat mengikuti jalannya seminar internasional di bawah keanggunan ruang ballroom.","image_path":"photos\/full\/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp","width":576,"height":1024,"aspect_ratio":0.5625,"orientation":"portrait","is_featured":true,"sort_order":4,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":35,"title":"Potret Kehormatan Dosen & Mahasiswa FST di Bawah Chandelier","description":"Formasi resmi dosen pendamping dan delegasi mahasiswa FST berpose di depan backdrop panggung utama El Hotel Bandung.","image_path":"photos\/full\/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp","width":576,"height":1024,"aspect_ratio":0.5625,"orientation":"portrait","is_featured":true,"sort_order":5,"published_at":"2026-11-09T04:38:41+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":29,"title":"Sidang Pleno Akbar & Delegasi Internasional di Grand Ballroom","description":"Potret megah seluruh pimpinan, pembicara internasional, dan ratusan delegasi memadati Grand Ballroom El Hotel Bandung.","image_path":"photos\/full\/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp","width":1024,"height":682,"aspect_ratio":1.5015,"orientation":"landscape","is_featured":true,"sort_order":6,"published_at":"2026-11-09T00:18:51+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":30,"title":"Inovasi Produk & Semangat Mahasiswi FST UT Bandung","description":"Dua mahasiswi Fakultas Sains dan Teknologi memperlihatkan produk karya inovasi kreatif di stan pameran konferensi.","image_path":"photos\/full\/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp","width":682,"height":1024,"aspect_ratio":0.666,"orientation":"portrait","is_featured":true,"sort_order":7,"published_at":"2026-11-09T00:18:51+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":2,"title":"Swafoto Hangat Tim Delegasi & Panitia Muda FST","description":"Kekompakan mahasiswa Fakultas Sains dan Teknologi di sela persiapan sesi materi menggunakan perangkat laptop di ruang konferensi.","image_path":"photos\/full\/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp","width":769,"height":1024,"aspect_ratio":0.751,"orientation":"portrait","is_featured":true,"sort_order":8,"published_at":"2026-11-08T21:21:51+00:00","category":{"id":4,"name":"Behind The Scenes","slug":"behind-the-scenes"}},{"id":1,"title":"Jajaran Dosen & Pendamping Akademik di Panggung INNODEL 2026","description":"Formasi dosen Fakultas Sains dan Teknologi Universitas Terbuka Bandung berbusana batik seragam di depan latar resmi INNODEL 2026.","image_path":"photos\/full\/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp","width":1024,"height":768,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":9,"published_at":"2026-11-08T21:20:51+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":3,"title":"Kebersamaan Meja Bundar Civitas FST di Ballroom Utama","description":"Dosen dan mahasiswa FST UT Bandung berbusana adat Sunda serta batik Nusantara mengikuti rangkaian sidang pleno di El Hotel Bandung.","image_path":"photos\/full\/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp","width":768,"height":1024,"aspect_ratio":0.75,"orientation":"portrait","is_featured":true,"sort_order":10,"published_at":"2026-11-08T21:22:52+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":4,"title":"Formasi Delegasi Mahasiswa FST di Panggung Utama","description":"Sebelas perwakilan mahasiswa Fakultas Sains dan Teknologi mengabadikan momen kebersamaan di panggung konferensi internasional INNODEL 2026.","image_path":"photos\/full\/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp","width":1024,"height":768,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":11,"published_at":"2026-11-08T21:23:52+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":5,"title":"Potret Penuh Kolaborasi Dosen & Mahasiswa UT Bandung","description":"Kebersamaan lintas generasi civitas akademika FST UT Bandung menutup sesi konferensi di panggung utama El Hotel Bandung.","image_path":"photos\/full\/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp","width":768,"height":1024,"aspect_ratio":0.75,"orientation":"portrait","is_featured":true,"sort_order":12,"published_at":"2026-11-08T21:24:52+00:00","category":{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony"}},{"id":6,"title":"Delegasi Mahasiswa & Panitia FST UT Bandung","description":"Potret kebersamaan delegasi Fakultas Sains dan Teknologi di depan panggung utama bermotif Merak dan Gedung Sate.","image_path":"photos\/full\/delegasi-mahasiswa-panitia-fst-ut-bandung-b73bef83.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/delegasi-mahasiswa-panitia-fst-ut-bandung-b73bef83.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/delegasi-mahasiswa-panitia-fst-ut-bandung-b73bef83.webp","width":1920,"height":1440,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":13,"published_at":"2026-11-08T21:25:53+00:00","category":{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony"}},{"id":7,"title":"Penyambutan Pembicara Utama di Panggung Ballroom","description":"Momen pembukaan INNODEL 2026 di El Hotel Bandung bersama narasumber internasional dan perwakilan mahasiswa.","image_path":"photos\/full\/penyambutan-pembicara-utama-di-panggung-ballroom-a877cef0.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/penyambutan-pembicara-utama-di-panggung-ballroom-a877cef0.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/penyambutan-pembicara-utama-di-panggung-ballroom-a877cef0.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":true,"sort_order":14,"published_at":"2026-11-08T21:26:53+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":8,"title":"Diskusi Akademik Meja Bundar FST","description":"Dosen pendamping dan mahasiswa Fakultas Sains dan Teknologi berdiskusi hangat mengikuti jalannya sesi pleno.","image_path":"photos\/full\/diskusi-akademik-meja-bundar-fst-d7a96948.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/diskusi-akademik-meja-bundar-fst-d7a96948.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/diskusi-akademik-meja-bundar-fst-d7a96948.webp","width":1600,"height":1200,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":15,"published_at":"2026-11-08T21:27:53+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":9,"title":"Kunjungan Stan Wirausaha & Inovasi Mahasiswa","description":"Interaksi hangat dosen dan peserta mengunjungi stan kreasi mahasiswa di area pameran konferensi.","image_path":"photos\/full\/kunjungan-stan-wirausaha-inovasi-mahasiswa-637715f7.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/kunjungan-stan-wirausaha-inovasi-mahasiswa-637715f7.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/kunjungan-stan-wirausaha-inovasi-mahasiswa-637715f7.webp","width":1920,"height":1440,"aspect_ratio":1.3333,"orientation":"landscape","is_featured":true,"sort_order":16,"published_at":"2026-11-08T21:28:54+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":10,"title":"Ekspresi Kolaborasi Lintas Budaya","description":"Keakraban peserta UT Bandung bersama pembicara tamu internasional seusai pemaparan materi utama.","image_path":"photos\/full\/ekspresi-kolaborasi-lintas-budaya-1b7c196e.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/ekspresi-kolaborasi-lintas-budaya-1b7c196e.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/ekspresi-kolaborasi-lintas-budaya-1b7c196e.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":true,"sort_order":17,"published_at":"2026-11-08T21:29:55+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":11,"title":"Sesi Pleno di Bawah Lampu Kristal El Hotel","description":"Antusiasme peserta mengenakan busana batik dan adat Sunda menyimak rangkaian seminar internasional.","image_path":"photos\/full\/sesi-pleno-di-bawah-lampu-kristal-el-hotel-64317b67.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/sesi-pleno-di-bawah-lampu-kristal-el-hotel-64317b67.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/sesi-pleno-di-bawah-lampu-kristal-el-hotel-64317b67.webp","width":1440,"height":1920,"aspect_ratio":0.75,"orientation":"portrait","is_featured":true,"sort_order":18,"published_at":"2026-11-08T21:30:55+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":12,"title":"Berbagi Tangkapan Layar di Lobi El Hotel Bandung","description":"Dua peserta meninjau dokumentasi kegiatan langsung dari ponsel pintar di area lobi utama hotel.","image_path":"photos\/full\/berbagi-tangkapan-layar-di-lobi-el-hotel-bandung-1ec2f3bf.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/berbagi-tangkapan-layar-di-lobi-el-hotel-bandung-1ec2f3bf.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/berbagi-tangkapan-layar-di-lobi-el-hotel-bandung-1ec2f3bf.webp","width":720,"height":1280,"aspect_ratio":0.5625,"orientation":"portrait","is_featured":true,"sort_order":19,"published_at":"2026-11-08T21:31:55+00:00","category":{"id":4,"name":"Behind The Scenes","slug":"behind-the-scenes"}},{"id":13,"title":"Formasi Lengkap Civitas Akademika FST UT Bandung","description":"Foto kehormatan jajaran dosen dan mahasiswa di anjungan resmi INNODEL 2026.","image_path":"photos\/full\/formasi-lengkap-civitas-akademika-fst-ut-bandung-5642b4c4.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/formasi-lengkap-civitas-akademika-fst-ut-bandung-5642b4c4.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/formasi-lengkap-civitas-akademika-fst-ut-bandung-5642b4c4.webp","width":1440,"height":1920,"aspect_ratio":0.75,"orientation":"portrait","is_featured":true,"sort_order":20,"published_at":"2026-11-08T21:32:56+00:00","category":{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony"}},{"id":14,"title":"Potret Panggung Utama Konferensi Internasional","description":"Layar LED utama menampilkan identitas visual INNODEL 2026 Bandung, Jawa Barat.","image_path":"photos\/full\/potret-panggung-utama-konferensi-internasional-58eeae08.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/potret-panggung-utama-konferensi-internasional-58eeae08.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/potret-panggung-utama-konferensi-internasional-58eeae08.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":21,"published_at":"2026-11-08T21:33:57+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":16,"title":"Silaturahmi Akademik di Depan Bendera Fakultas","description":"Pertemuan awal delegasi mahasiswa dengan pembicara kunci internasional.","image_path":"photos\/full\/silaturahmi-akademik-di-depan-bendera-fakultas-6bc4aa14.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/silaturahmi-akademik-di-depan-bendera-fakultas-6bc4aa14.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/silaturahmi-akademik-di-depan-bendera-fakultas-6bc4aa14.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":23,"published_at":"2026-11-08T21:35:57+00:00","category":{"id":1,"name":"Opening Ceremony","slug":"opening-ceremony"}},{"id":19,"title":"Salam Inovasi dari Meja Delegasi FST","description":"Kekompakan tim mahasiswa dan pendamping akademik mengikuti agenda hari kedua.","image_path":"photos\/full\/salam-inovasi-dari-meja-delegasi-fst-ad9ab370.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/salam-inovasi-dari-meja-delegasi-fst-ad9ab370.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/salam-inovasi-dari-meja-delegasi-fst-ad9ab370.webp","width":1200,"height":1600,"aspect_ratio":0.75,"orientation":"portrait","is_featured":false,"sort_order":24,"published_at":"2026-11-08T21:38:59+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":18,"title":"Jeda Diskusi Antar Sesi Paralel","description":"Suasana akrab di ruang ballroom utama El Hotel Bandung selama sesi materi berlangsung.","image_path":"photos\/full\/jeda-diskusi-antar-sesi-paralel-f170e9a4.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/jeda-diskusi-antar-sesi-paralel-f170e9a4.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/jeda-diskusi-antar-sesi-paralel-f170e9a4.webp","width":1440,"height":1920,"aspect_ratio":0.75,"orientation":"portrait","is_featured":false,"sort_order":25,"published_at":"2026-11-08T21:37:59+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":17,"title":"Semangat Kolaborasi Meja Delegasi Bandung","description":"Peserta mencatat gagasan penting seputar inovasi pembelajaran terbuka dan jarak jauh.","image_path":"photos\/full\/semangat-kolaborasi-meja-delegasi-bandung-31cd7400.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/semangat-kolaborasi-meja-delegasi-bandung-31cd7400.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/semangat-kolaborasi-meja-delegasi-bandung-31cd7400.webp","width":1440,"height":1920,"aspect_ratio":0.75,"orientation":"portrait","is_featured":false,"sort_order":26,"published_at":"2026-11-08T21:36:58+00:00","category":{"id":2,"name":"Main Activities","slug":"main-activities"}},{"id":20,"title":"Dialog Singkat Usai Pemaparan Keynote","description":"Kesempatan berdiskusi langsung mengenai riset pendidikan jarak jauh bersama pakar global.","image_path":"photos\/full\/dialog-singkat-usai-pemaparan-keynote-ce790b7e.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/dialog-singkat-usai-pemaparan-keynote-ce790b7e.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/dialog-singkat-usai-pemaparan-keynote-ce790b7e.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":27,"published_at":"2026-11-08T21:39:59+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":21,"title":"Potret Persahabatan Akademik Internasional","description":"Mengabadikan momen pertemuan dengan narasumber di tepi panggung utama.","image_path":"photos\/full\/potret-persahabatan-akademik-internasional-cfe9611f.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/potret-persahabatan-akademik-internasional-cfe9611f.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/potret-persahabatan-akademik-internasional-cfe9611f.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":28,"published_at":"2026-11-08T21:41:00+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":23,"title":"Pertukaran Perspektif Pendidikan Terbuka","description":"Suasana cair dan penuh keakraban mempertemukan peserta lintas negara di Bandung.","image_path":"photos\/full\/pertukaran-perspektif-pendidikan-terbuka-0c3382a2.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/pertukaran-perspektif-pendidikan-terbuka-0c3382a2.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/pertukaran-perspektif-pendidikan-terbuka-0c3382a2.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":30,"published_at":"2026-11-08T21:43:00+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":24,"title":"Keramahan Tuan Rumah Bandung bagi Tamu Dunia","description":"Peserta mengenakan batik khas Nusantara berdampingan dengan tamu konferensi.","image_path":"photos\/full\/keramahan-tuan-rumah-bandung-bagi-tamu-dunia-9f8b5021.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/keramahan-tuan-rumah-bandung-bagi-tamu-dunia-9f8b5021.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/keramahan-tuan-rumah-bandung-bagi-tamu-dunia-9f8b5021.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":31,"published_at":"2026-11-08T21:44:01+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":25,"title":"Momen Berkesan Sebelum Penutupan Sesi Pleno","description":"Kenangan kolaborasi riset dan inovasi bersama delegasi internasional.","image_path":"photos\/full\/momen-berkesan-sebelum-penutupan-sesi-pleno-4366b676.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/momen-berkesan-sebelum-penutupan-sesi-pleno-4366b676.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/momen-berkesan-sebelum-penutupan-sesi-pleno-4366b676.webp","width":1200,"height":1599,"aspect_ratio":0.7505,"orientation":"portrait","is_featured":false,"sort_order":32,"published_at":"2026-11-08T21:45:01+00:00","category":{"id":3,"name":"Networking & Collaboration","slug":"networking-collaboration"}},{"id":26,"title":"Salam Kebanggaan UT Bandung di Panggung Penutupan","description":"Rombongan civitas akademika merayakan keberhasilan penyelenggaraan INNODEL 2026.","image_path":"photos\/full\/salam-kebanggaan-ut-bandung-di-panggung-penutupan-54852069.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/salam-kebanggaan-ut-bandung-di-panggung-penutupan-54852069.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/salam-kebanggaan-ut-bandung-di-panggung-penutupan-54852069.webp","width":1440,"height":1920,"aspect_ratio":0.75,"orientation":"portrait","is_featured":false,"sort_order":33,"published_at":"2026-11-08T21:46:02+00:00","category":{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony"}},{"id":27,"title":"Harmoni Batik Nusantara di Penutupan Acara","description":"Potret resmi penutupan kegiatan dua hari di El Hotel Bandung.","image_path":"photos\/full\/harmoni-batik-nusantara-di-penutupan-acara-8010a65c.webp","image_url":"http:\/\/localhost:8000\/storage\/photos\/full\/harmoni-batik-nusantara-di-penutupan-acara-8010a65c.webp","thumbnail_url":"http:\/\/localhost:8000\/storage\/photos\/thumbs\/harmoni-batik-nusantara-di-penutupan-acara-8010a65c.webp","width":1440,"height":1920,"aspect_ratio":0.75,"orientation":"portrait","is_featured":false,"sort_order":34,"published_at":"2026-11-08T21:47:03+00:00","category":{"id":5,"name":"Closing Ceremony","slug":"closing-ceremony"}}]}
+{
+  "event": {
+    "name": "INNODEL 2026",
+    "concept": "INNODEL \u00b7 DIGITAL MEMORIES 2026",
+    "subtitle": "A Collection of Moments, Memories & Innovation",
+    "faculty": "Faculty of Science and Technology",
+    "university": "Universitas Terbuka Bandung",
+    "dates": "November 4th-5th, 2026",
+    "venue": "El Hotel Bandung",
+    "statement": "Celebrating innovation, collaboration, and meaningful connections through unforgettable moments.",
+    "tagline": "Every Moment Has a Story."
+  },
+  "stats": {
+    "total_published": 37,
+    "total_categories": 5,
+    "total_featured": 12,
+    "filtered_count": 37
+  },
+  "categories": [
+    {
+      "id": 1,
+      "name": "Opening Ceremony",
+      "slug": "opening-ceremony",
+      "description": "Penyambutan delegasi dan pembukaan konferensi internasional INNODEL 2026 di Ballroom El Hotel Bandung.",
+      "photos_count": 6
+    },
+    {
+      "id": 2,
+      "name": "Main Activities",
+      "slug": "main-activities",
+      "description": "Diskusi meja bundar, sesi pleno akademik, dan pemaparan inovasi pembelajaran terbuka jarak jauh.",
+      "photos_count": 8
+    },
+    {
+      "id": 3,
+      "name": "Networking & Collaboration",
+      "slug": "networking-collaboration",
+      "description": "Pertukaran gagasan lintas kampus, sesi bersama pembicara internasional, dan pameran karya mahasiswa.",
+      "photos_count": 14
+    },
+    {
+      "id": 4,
+      "name": "Behind The Scenes",
+      "slug": "behind-the-scenes",
+      "description": "Momen hangat persiapan dan kebersamaan peserta di sela agenda utama El Hotel Bandung.",
+      "photos_count": 4
+    },
+    {
+      "id": 5,
+      "name": "Closing Ceremony",
+      "slug": "closing-ceremony",
+      "description": "Potret bersama delegasi Fakultas Sains dan Teknologi Universitas Terbuka Bandung menutup rangkaian acara.",
+      "photos_count": 5
+    }
+  ],
+  "featured": [
+    {
+      "id": 36,
+      "title": "Formasi Formal Tim Ormawa FST UT Bandung di Panggung INNODEL 2026",
+      "description": "Lima perwakilan Organisasi Mahasiswa (Ormawa) FST Universitas Terbuka Bandung berpose formal dan berwibawa di panggung utama dengan sorotan lampu biru.",
+      "image_path": "photos/full/formasi-formal-tim-ormawa-fst-ut-bandung-di-panggung-innodel-2026-d195e7d3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/formasi-formal-tim-ormawa-fst-ut-bandung-di-panggung-innodel-2026-d195e7d3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/formasi-formal-tim-ormawa-fst-ut-bandung-di-panggung-innodel-2026-d195e7d3.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 1,
+      "published_at": "2026-11-09T05:49:49+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 37,
+      "title": "Aksi Spontan & Kekompakan Ormawa FST di Panggung Utama",
+      "description": "Gaya ekspresif dan enerjik perwakilan Ormawa FST UT Bandung merayakan kebersamaan dan kesuksesan agenda INNODEL 2026.",
+      "image_path": "photos/full/aksi-spontan-kekompakan-ormawa-fst-di-panggung-utama-04e3a0cb.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/aksi-spontan-kekompakan-ormawa-fst-di-panggung-utama-04e3a0cb.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/aksi-spontan-kekompakan-ormawa-fst-di-panggung-utama-04e3a0cb.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 2,
+      "published_at": "2026-11-09T05:50:49+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Pose Ikonik & Semangat Muda HIMA FST UT Bandung",
+      "description": "Empat anggota Himpunan Mahasiswa FST (HIMA FST) bergaya kompak dengan gestur tangan khas di panggung berlatar INNODEL 2026.",
+      "image_path": "photos/full/pose-ikonik-semangat-muda-hima-fst-ut-bandung-0ac4eeeb.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/pose-ikonik-semangat-muda-hima-fst-ut-bandung-0ac4eeeb.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/pose-ikonik-semangat-muda-hima-fst-ut-bandung-0ac4eeeb.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 3,
+      "published_at": "2026-11-09T05:51:49+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 39,
+      "title": "Keseruan Kolaborasi Tim HIMA FST & Ormawa Menyapa Peserta",
+      "description": "Momen keakraban pengurus HIMA FST dan Ormawa di panggung megah berlatar biru, siap menyukseskan seluruh rangkaian acara.",
+      "image_path": "photos/full/keseruan-kolaborasi-tim-hima-fst-ormawa-menyapa-peserta-43d82fdf.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keseruan-kolaborasi-tim-hima-fst-ormawa-menyapa-peserta-43d82fdf.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keseruan-kolaborasi-tim-hima-fst-ormawa-menyapa-peserta-43d82fdf.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 4,
+      "published_at": "2026-11-09T05:52:50+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 40,
+      "title": "Sesi Masterclass & Foto Bersama Andre Surya di El Hotel Bandung",
+      "description": "Peserta dan panitia berfoto bersama narasumber tamu Andre Surya (Founder Enspire / ASDA) usai pemaparan materi industri kreatif digital.",
+      "image_path": "photos/full/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
+      "width": 1024,
+      "height": 682,
+      "aspect_ratio": 1.5015,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 5,
+      "published_at": "2026-11-09T05:53:50+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Salam Inovasi UT Bersama Pembicara Internasional",
+      "description": "Delegasi mahasiswa FST bersama pembicara kehormatan global berpose salam UT di depan panggung utama INNODEL 2026.",
+      "image_path": "photos/full/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 6,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 32,
+      "title": "Keakraban Delegasi Muda FST Bersama Narasumber Global",
+      "description": "Suasana hangat dan penuh antusiasme mahasiswa UT berdiskusi santai bersama narasumber internasional.",
+      "image_path": "photos/full/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 7,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 33,
+      "title": "Kebersamaan Civitas FST dan Pembicara Kehormatan Internasional",
+      "description": "Momen kolaborasi berharga delegasi sains dan teknologi dalam perhelatan akbar di El Hotel Bandung.",
+      "image_path": "photos/full/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 8,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 34,
+      "title": "Diskusi Meja Bundar Civitas FST di Grand Ballroom",
+      "description": "Peserta mengenakan busana batik dan busana adat mengikuti jalannya seminar internasional di bawah keanggunan ruang ballroom.",
+      "image_path": "photos/full/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
+      "width": 576,
+      "height": 1024,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 9,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 35,
+      "title": "Potret Kehormatan Dosen & Mahasiswa FST di Bawah Chandelier",
+      "description": "Formasi resmi dosen pendamping dan delegasi mahasiswa FST berpose di depan backdrop panggung utama El Hotel Bandung.",
+      "image_path": "photos/full/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
+      "width": 576,
+      "height": 1024,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 10,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Sidang Pleno Akbar & Delegasi Internasional di Grand Ballroom",
+      "description": "Potret megah seluruh pimpinan, pembicara internasional, dan ratusan delegasi memadati Grand Ballroom El Hotel Bandung.",
+      "image_path": "photos/full/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
+      "width": 1024,
+      "height": 682,
+      "aspect_ratio": 1.5015,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 11,
+      "published_at": "2026-11-09T00:18:51+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 30,
+      "title": "Inovasi Produk & Semangat Mahasiswi FST UT Bandung",
+      "description": "Dua mahasiswi Fakultas Sains dan Teknologi memperlihatkan produk karya inovasi kreatif di stan pameran konferensi.",
+      "image_path": "photos/full/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
+      "width": 682,
+      "height": 1024,
+      "aspect_ratio": 0.666,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 12,
+      "published_at": "2026-11-09T00:18:51+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    }
+  ],
+  "photos": [
+    {
+      "id": 36,
+      "title": "Formasi Formal Tim Ormawa FST UT Bandung di Panggung INNODEL 2026",
+      "description": "Lima perwakilan Organisasi Mahasiswa (Ormawa) FST Universitas Terbuka Bandung berpose formal dan berwibawa di panggung utama dengan sorotan lampu biru.",
+      "image_path": "photos/full/formasi-formal-tim-ormawa-fst-ut-bandung-di-panggung-innodel-2026-d195e7d3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/formasi-formal-tim-ormawa-fst-ut-bandung-di-panggung-innodel-2026-d195e7d3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/formasi-formal-tim-ormawa-fst-ut-bandung-di-panggung-innodel-2026-d195e7d3.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 1,
+      "published_at": "2026-11-09T05:49:49+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 37,
+      "title": "Aksi Spontan & Kekompakan Ormawa FST di Panggung Utama",
+      "description": "Gaya ekspresif dan enerjik perwakilan Ormawa FST UT Bandung merayakan kebersamaan dan kesuksesan agenda INNODEL 2026.",
+      "image_path": "photos/full/aksi-spontan-kekompakan-ormawa-fst-di-panggung-utama-04e3a0cb.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/aksi-spontan-kekompakan-ormawa-fst-di-panggung-utama-04e3a0cb.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/aksi-spontan-kekompakan-ormawa-fst-di-panggung-utama-04e3a0cb.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 2,
+      "published_at": "2026-11-09T05:50:49+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 38,
+      "title": "Pose Ikonik & Semangat Muda HIMA FST UT Bandung",
+      "description": "Empat anggota Himpunan Mahasiswa FST (HIMA FST) bergaya kompak dengan gestur tangan khas di panggung berlatar INNODEL 2026.",
+      "image_path": "photos/full/pose-ikonik-semangat-muda-hima-fst-ut-bandung-0ac4eeeb.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/pose-ikonik-semangat-muda-hima-fst-ut-bandung-0ac4eeeb.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/pose-ikonik-semangat-muda-hima-fst-ut-bandung-0ac4eeeb.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 3,
+      "published_at": "2026-11-09T05:51:49+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 39,
+      "title": "Keseruan Kolaborasi Tim HIMA FST & Ormawa Menyapa Peserta",
+      "description": "Momen keakraban pengurus HIMA FST dan Ormawa di panggung megah berlatar biru, siap menyukseskan seluruh rangkaian acara.",
+      "image_path": "photos/full/keseruan-kolaborasi-tim-hima-fst-ormawa-menyapa-peserta-43d82fdf.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keseruan-kolaborasi-tim-hima-fst-ormawa-menyapa-peserta-43d82fdf.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keseruan-kolaborasi-tim-hima-fst-ormawa-menyapa-peserta-43d82fdf.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 4,
+      "published_at": "2026-11-09T05:52:50+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 40,
+      "title": "Sesi Masterclass & Foto Bersama Andre Surya di El Hotel Bandung",
+      "description": "Peserta dan panitia berfoto bersama narasumber tamu Andre Surya (Founder Enspire / ASDA) usai pemaparan materi industri kreatif digital.",
+      "image_path": "photos/full/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
+      "width": 1024,
+      "height": 682,
+      "aspect_ratio": 1.5015,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 5,
+      "published_at": "2026-11-09T05:53:50+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 31,
+      "title": "Salam Inovasi UT Bersama Pembicara Internasional",
+      "description": "Delegasi mahasiswa FST bersama pembicara kehormatan global berpose salam UT di depan panggung utama INNODEL 2026.",
+      "image_path": "photos/full/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 6,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 32,
+      "title": "Keakraban Delegasi Muda FST Bersama Narasumber Global",
+      "description": "Suasana hangat dan penuh antusiasme mahasiswa UT berdiskusi santai bersama narasumber internasional.",
+      "image_path": "photos/full/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 7,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 33,
+      "title": "Kebersamaan Civitas FST dan Pembicara Kehormatan Internasional",
+      "description": "Momen kolaborasi berharga delegasi sains dan teknologi dalam perhelatan akbar di El Hotel Bandung.",
+      "image_path": "photos/full/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 8,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 34,
+      "title": "Diskusi Meja Bundar Civitas FST di Grand Ballroom",
+      "description": "Peserta mengenakan busana batik dan busana adat mengikuti jalannya seminar internasional di bawah keanggunan ruang ballroom.",
+      "image_path": "photos/full/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
+      "width": 576,
+      "height": 1024,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 9,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 35,
+      "title": "Potret Kehormatan Dosen & Mahasiswa FST di Bawah Chandelier",
+      "description": "Formasi resmi dosen pendamping dan delegasi mahasiswa FST berpose di depan backdrop panggung utama El Hotel Bandung.",
+      "image_path": "photos/full/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
+      "width": 576,
+      "height": 1024,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 10,
+      "published_at": "2026-11-09T04:38:41+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 29,
+      "title": "Sidang Pleno Akbar & Delegasi Internasional di Grand Ballroom",
+      "description": "Potret megah seluruh pimpinan, pembicara internasional, dan ratusan delegasi memadati Grand Ballroom El Hotel Bandung.",
+      "image_path": "photos/full/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
+      "width": 1024,
+      "height": 682,
+      "aspect_ratio": 1.5015,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 11,
+      "published_at": "2026-11-09T00:18:51+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 30,
+      "title": "Inovasi Produk & Semangat Mahasiswi FST UT Bandung",
+      "description": "Dua mahasiswi Fakultas Sains dan Teknologi memperlihatkan produk karya inovasi kreatif di stan pameran konferensi.",
+      "image_path": "photos/full/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
+      "width": 682,
+      "height": 1024,
+      "aspect_ratio": 0.666,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 12,
+      "published_at": "2026-11-09T00:18:51+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 2,
+      "title": "Swafoto Hangat Tim Delegasi & Panitia Muda FST",
+      "description": "Kekompakan mahasiswa Fakultas Sains dan Teknologi di sela persiapan sesi materi menggunakan perangkat laptop di ruang konferensi.",
+      "image_path": "photos/full/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/swafoto-hangat-tim-delegasi-panitia-muda-fst-569ed0a8.webp",
+      "width": 769,
+      "height": 1024,
+      "aspect_ratio": 0.751,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 13,
+      "published_at": "2026-11-08T21:21:51+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 1,
+      "title": "Jajaran Dosen & Pendamping Akademik di Panggung INNODEL 2026",
+      "description": "Formasi dosen Fakultas Sains dan Teknologi Universitas Terbuka Bandung berbusana batik seragam di depan latar resmi INNODEL 2026.",
+      "image_path": "photos/full/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/jajaran-dosen-pendamping-akademik-di-panggung-innodel-2026-eb721ae3.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 14,
+      "published_at": "2026-11-08T21:20:51+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 3,
+      "title": "Kebersamaan Meja Bundar Civitas FST di Ballroom Utama",
+      "description": "Dosen dan mahasiswa FST UT Bandung berbusana adat Sunda serta batik Nusantara mengikuti rangkaian sidang pleno di El Hotel Bandung.",
+      "image_path": "photos/full/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/kebersamaan-meja-bundar-civitas-fst-di-ballroom-utama-9ec9bbe0.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 15,
+      "published_at": "2026-11-08T21:22:52+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 4,
+      "title": "Formasi Delegasi Mahasiswa FST di Panggung Utama",
+      "description": "Sebelas perwakilan mahasiswa Fakultas Sains dan Teknologi mengabadikan momen kebersamaan di panggung konferensi internasional INNODEL 2026.",
+      "image_path": "photos/full/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/formasi-delegasi-mahasiswa-fst-di-panggung-utama-f4d8f3c8.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 16,
+      "published_at": "2026-11-08T21:23:52+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 5,
+      "title": "Potret Penuh Kolaborasi Dosen & Mahasiswa UT Bandung",
+      "description": "Kebersamaan lintas generasi civitas akademika FST UT Bandung menutup sesi konferensi di panggung utama El Hotel Bandung.",
+      "image_path": "photos/full/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-penuh-kolaborasi-dosen-mahasiswa-ut-bandung-b56effe5.webp",
+      "width": 768,
+      "height": 1024,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 17,
+      "published_at": "2026-11-08T21:24:52+00:00",
+      "category": {
+        "id": 5,
+        "name": "Closing Ceremony",
+        "slug": "closing-ceremony"
+      }
+    },
+    {
+      "id": 6,
+      "title": "Delegasi Mahasiswa & Panitia FST UT Bandung",
+      "description": "Potret kebersamaan delegasi Fakultas Sains dan Teknologi di depan panggung utama bermotif Merak dan Gedung Sate.",
+      "image_path": "photos/full/delegasi-mahasiswa-panitia-fst-ut-bandung-b73bef83.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/delegasi-mahasiswa-panitia-fst-ut-bandung-b73bef83.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/delegasi-mahasiswa-panitia-fst-ut-bandung-b73bef83.webp",
+      "width": 1920,
+      "height": 1440,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 18,
+      "published_at": "2026-11-08T21:25:53+00:00",
+      "category": {
+        "id": 5,
+        "name": "Closing Ceremony",
+        "slug": "closing-ceremony"
+      }
+    },
+    {
+      "id": 7,
+      "title": "Penyambutan Pembicara Utama di Panggung Ballroom",
+      "description": "Momen pembukaan INNODEL 2026 di El Hotel Bandung bersama narasumber internasional dan perwakilan mahasiswa.",
+      "image_path": "photos/full/penyambutan-pembicara-utama-di-panggung-ballroom-a877cef0.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/penyambutan-pembicara-utama-di-panggung-ballroom-a877cef0.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/penyambutan-pembicara-utama-di-panggung-ballroom-a877cef0.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 19,
+      "published_at": "2026-11-08T21:26:53+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 8,
+      "title": "Diskusi Akademik Meja Bundar FST",
+      "description": "Dosen pendamping dan mahasiswa Fakultas Sains dan Teknologi berdiskusi hangat mengikuti jalannya sesi pleno.",
+      "image_path": "photos/full/diskusi-akademik-meja-bundar-fst-d7a96948.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/diskusi-akademik-meja-bundar-fst-d7a96948.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/diskusi-akademik-meja-bundar-fst-d7a96948.webp",
+      "width": 1600,
+      "height": 1200,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 20,
+      "published_at": "2026-11-08T21:27:53+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 9,
+      "title": "Kunjungan Stan Wirausaha & Inovasi Mahasiswa",
+      "description": "Interaksi hangat dosen dan peserta mengunjungi stan kreasi mahasiswa di area pameran konferensi.",
+      "image_path": "photos/full/kunjungan-stan-wirausaha-inovasi-mahasiswa-637715f7.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/kunjungan-stan-wirausaha-inovasi-mahasiswa-637715f7.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/kunjungan-stan-wirausaha-inovasi-mahasiswa-637715f7.webp",
+      "width": 1920,
+      "height": 1440,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 21,
+      "published_at": "2026-11-08T21:28:54+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 10,
+      "title": "Ekspresi Kolaborasi Lintas Budaya",
+      "description": "Keakraban peserta UT Bandung bersama pembicara tamu internasional seusai pemaparan materi utama.",
+      "image_path": "photos/full/ekspresi-kolaborasi-lintas-budaya-1b7c196e.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/ekspresi-kolaborasi-lintas-budaya-1b7c196e.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/ekspresi-kolaborasi-lintas-budaya-1b7c196e.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 22,
+      "published_at": "2026-11-08T21:29:55+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 11,
+      "title": "Sesi Pleno di Bawah Lampu Kristal El Hotel",
+      "description": "Antusiasme peserta mengenakan busana batik dan adat Sunda menyimak rangkaian seminar internasional.",
+      "image_path": "photos/full/sesi-pleno-di-bawah-lampu-kristal-el-hotel-64317b67.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/sesi-pleno-di-bawah-lampu-kristal-el-hotel-64317b67.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sesi-pleno-di-bawah-lampu-kristal-el-hotel-64317b67.webp",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 23,
+      "published_at": "2026-11-08T21:30:55+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 12,
+      "title": "Berbagi Tangkapan Layar di Lobi El Hotel Bandung",
+      "description": "Dua peserta meninjau dokumentasi kegiatan langsung dari ponsel pintar di area lobi utama hotel.",
+      "image_path": "photos/full/berbagi-tangkapan-layar-di-lobi-el-hotel-bandung-1ec2f3bf.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/berbagi-tangkapan-layar-di-lobi-el-hotel-bandung-1ec2f3bf.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/berbagi-tangkapan-layar-di-lobi-el-hotel-bandung-1ec2f3bf.webp",
+      "width": 720,
+      "height": 1280,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 24,
+      "published_at": "2026-11-08T21:31:55+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 13,
+      "title": "Formasi Lengkap Civitas Akademika FST UT Bandung",
+      "description": "Foto kehormatan jajaran dosen dan mahasiswa di anjungan resmi INNODEL 2026.",
+      "image_path": "photos/full/formasi-lengkap-civitas-akademika-fst-ut-bandung-5642b4c4.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/formasi-lengkap-civitas-akademika-fst-ut-bandung-5642b4c4.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/formasi-lengkap-civitas-akademika-fst-ut-bandung-5642b4c4.webp",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 25,
+      "published_at": "2026-11-08T21:32:56+00:00",
+      "category": {
+        "id": 5,
+        "name": "Closing Ceremony",
+        "slug": "closing-ceremony"
+      }
+    },
+    {
+      "id": 14,
+      "title": "Potret Panggung Utama Konferensi Internasional",
+      "description": "Layar LED utama menampilkan identitas visual INNODEL 2026 Bandung, Jawa Barat.",
+      "image_path": "photos/full/potret-panggung-utama-konferensi-internasional-58eeae08.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-panggung-utama-konferensi-internasional-58eeae08.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-panggung-utama-konferensi-internasional-58eeae08.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 26,
+      "published_at": "2026-11-08T21:33:57+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 16,
+      "title": "Silaturahmi Akademik di Depan Bendera Fakultas",
+      "description": "Pertemuan awal delegasi mahasiswa dengan pembicara kunci internasional.",
+      "image_path": "photos/full/silaturahmi-akademik-di-depan-bendera-fakultas-6bc4aa14.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/silaturahmi-akademik-di-depan-bendera-fakultas-6bc4aa14.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/silaturahmi-akademik-di-depan-bendera-fakultas-6bc4aa14.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 28,
+      "published_at": "2026-11-08T21:35:57+00:00",
+      "category": {
+        "id": 1,
+        "name": "Opening Ceremony",
+        "slug": "opening-ceremony"
+      }
+    },
+    {
+      "id": 19,
+      "title": "Salam Inovasi dari Meja Delegasi FST",
+      "description": "Kekompakan tim mahasiswa dan pendamping akademik mengikuti agenda hari kedua.",
+      "image_path": "photos/full/salam-inovasi-dari-meja-delegasi-fst-ad9ab370.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/salam-inovasi-dari-meja-delegasi-fst-ad9ab370.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-inovasi-dari-meja-delegasi-fst-ad9ab370.webp",
+      "width": 1200,
+      "height": 1600,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 29,
+      "published_at": "2026-11-08T21:38:59+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 18,
+      "title": "Jeda Diskusi Antar Sesi Paralel",
+      "description": "Suasana akrab di ruang ballroom utama El Hotel Bandung selama sesi materi berlangsung.",
+      "image_path": "photos/full/jeda-diskusi-antar-sesi-paralel-f170e9a4.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/jeda-diskusi-antar-sesi-paralel-f170e9a4.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/jeda-diskusi-antar-sesi-paralel-f170e9a4.webp",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 30,
+      "published_at": "2026-11-08T21:37:59+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 17,
+      "title": "Semangat Kolaborasi Meja Delegasi Bandung",
+      "description": "Peserta mencatat gagasan penting seputar inovasi pembelajaran terbuka dan jarak jauh.",
+      "image_path": "photos/full/semangat-kolaborasi-meja-delegasi-bandung-31cd7400.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/semangat-kolaborasi-meja-delegasi-bandung-31cd7400.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/semangat-kolaborasi-meja-delegasi-bandung-31cd7400.webp",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 31,
+      "published_at": "2026-11-08T21:36:58+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 20,
+      "title": "Dialog Singkat Usai Pemaparan Keynote",
+      "description": "Kesempatan berdiskusi langsung mengenai riset pendidikan jarak jauh bersama pakar global.",
+      "image_path": "photos/full/dialog-singkat-usai-pemaparan-keynote-ce790b7e.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/dialog-singkat-usai-pemaparan-keynote-ce790b7e.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/dialog-singkat-usai-pemaparan-keynote-ce790b7e.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 32,
+      "published_at": "2026-11-08T21:39:59+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 21,
+      "title": "Potret Persahabatan Akademik Internasional",
+      "description": "Mengabadikan momen pertemuan dengan narasumber di tepi panggung utama.",
+      "image_path": "photos/full/potret-persahabatan-akademik-internasional-cfe9611f.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-persahabatan-akademik-internasional-cfe9611f.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-persahabatan-akademik-internasional-cfe9611f.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 33,
+      "published_at": "2026-11-08T21:41:00+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 23,
+      "title": "Pertukaran Perspektif Pendidikan Terbuka",
+      "description": "Suasana cair dan penuh keakraban mempertemukan peserta lintas negara di Bandung.",
+      "image_path": "photos/full/pertukaran-perspektif-pendidikan-terbuka-0c3382a2.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/pertukaran-perspektif-pendidikan-terbuka-0c3382a2.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/pertukaran-perspektif-pendidikan-terbuka-0c3382a2.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 35,
+      "published_at": "2026-11-08T21:43:00+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 24,
+      "title": "Keramahan Tuan Rumah Bandung bagi Tamu Dunia",
+      "description": "Peserta mengenakan batik khas Nusantara berdampingan dengan tamu konferensi.",
+      "image_path": "photos/full/keramahan-tuan-rumah-bandung-bagi-tamu-dunia-9f8b5021.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keramahan-tuan-rumah-bandung-bagi-tamu-dunia-9f8b5021.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keramahan-tuan-rumah-bandung-bagi-tamu-dunia-9f8b5021.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 36,
+      "published_at": "2026-11-08T21:44:01+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 25,
+      "title": "Momen Berkesan Sebelum Penutupan Sesi Pleno",
+      "description": "Kenangan kolaborasi riset dan inovasi bersama delegasi internasional.",
+      "image_path": "photos/full/momen-berkesan-sebelum-penutupan-sesi-pleno-4366b676.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/momen-berkesan-sebelum-penutupan-sesi-pleno-4366b676.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/momen-berkesan-sebelum-penutupan-sesi-pleno-4366b676.webp",
+      "width": 1200,
+      "height": 1599,
+      "aspect_ratio": 0.7505,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 37,
+      "published_at": "2026-11-08T21:45:01+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 26,
+      "title": "Salam Kebanggaan UT Bandung di Panggung Penutupan",
+      "description": "Rombongan civitas akademika merayakan keberhasilan penyelenggaraan INNODEL 2026.",
+      "image_path": "photos/full/salam-kebanggaan-ut-bandung-di-panggung-penutupan-54852069.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/salam-kebanggaan-ut-bandung-di-panggung-penutupan-54852069.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-kebanggaan-ut-bandung-di-panggung-penutupan-54852069.webp",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 38,
+      "published_at": "2026-11-08T21:46:02+00:00",
+      "category": {
+        "id": 5,
+        "name": "Closing Ceremony",
+        "slug": "closing-ceremony"
+      }
+    },
+    {
+      "id": 27,
+      "title": "Harmoni Batik Nusantara di Penutupan Acara",
+      "description": "Potret resmi penutupan kegiatan dua hari di El Hotel Bandung.",
+      "image_path": "photos/full/harmoni-batik-nusantara-di-penutupan-acara-8010a65c.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/harmoni-batik-nusantara-di-penutupan-acara-8010a65c.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/harmoni-batik-nusantara-di-penutupan-acara-8010a65c.webp",
+      "width": 1440,
+      "height": 1920,
+      "aspect_ratio": 0.75,
+      "orientation": "portrait",
+      "is_featured": false,
+      "sort_order": 39,
+      "published_at": "2026-11-08T21:47:03+00:00",
+      "category": {
+        "id": 5,
+        "name": "Closing Ceremony",
+        "slug": "closing-ceremony"
+      }
+    }
+  ]
+}
