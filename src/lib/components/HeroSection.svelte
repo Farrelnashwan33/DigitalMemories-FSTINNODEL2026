@@ -109,6 +109,13 @@
 						class="h-12 w-auto object-contain sm:h-18 lg:h-20"
 					/>
 					<img
+						src="/assets/logos/ut-official.png"
+						alt="Logo Resmi Universitas Terbuka"
+						width="64"
+						height="64"
+						class="h-10 w-10 rounded-full border border-[var(--border-subtle)] bg-[#fbf7ef] p-1 object-contain sm:h-14 sm:w-14"
+					/>
+					<img
 						src="/assets/logos/fst-ut-bandung.png"
 						alt="Logo Fakultas Sains dan Teknologi Universitas Terbuka Bandung"
 						width="64"

@@ -73,6 +73,14 @@
 						class="h-12 w-auto object-contain sm:h-14"
 					/>
 					<img
+						src="/assets/logos/ut-official.png"
+						alt="Logo Resmi Universitas Terbuka"
+						loading="lazy"
+						width="52"
+						height="52"
+						class="h-11 w-11 rounded-full border border-[var(--border-subtle)] bg-[#fbf7ef] p-1 object-contain sm:h-13 sm:w-13"
+					/>
+					<img
 						src="/assets/logos/fst-ut-bandung.png"
 						alt="Logo Fakultas Sains dan Teknologi Universitas Terbuka Bandung"
 						loading="lazy"
@@ -80,25 +88,6 @@
 						height="52"
 						class="h-11 w-11 rounded-full border border-[var(--border-subtle)] bg-[#fbf7ef] p-0.5 object-contain sm:h-13 sm:w-13"
 					/>
-					{#if hasUtLogo && !utLogoError}
-						<img
-							src="/assets/logos/ut-official.png"
-							alt="Logo Resmi Universitas Terbuka"
-							loading="lazy"
-							width="52"
-							height="52"
-							onerror={() => (utLogoError = true)}
-							class="h-11 w-auto object-contain sm:h-13"
-						/>
-					{:else}
-						<!-- Honest placeholder slot until official UT emblem is placed in /static/assets/logos/ut-official.png -->
-						<div
-							title="Simpan file ut-official.png di folder static/assets/logos/ untuk menampilkan Logo UT resmi"
-							class="inline-flex h-10 items-center rounded-xl border border-dashed border-[var(--border-subtle)] px-3 text-xs font-semibold text-[var(--ink-muted)] sm:h-12 sm:px-3.5"
-						>
-							[LOGO UT]
-						</div>
-					{/if}
 				</div>
 
 				<p class="font-editorial mt-4 text-xl italic text-[var(--accent-gold)] sm:mt-5 sm:text-2xl">
