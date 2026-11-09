@@ -11,10 +11,10 @@
     "tagline": "Every Moment Has a Story."
   },
   "stats": {
-    "total_published": 37,
+    "total_published": 42,
     "total_categories": 5,
     "total_featured": 12,
-    "filtered_count": 37
+    "filtered_count": 42
   },
   "categories": [
     {
@@ -29,21 +29,21 @@
       "name": "Main Activities",
       "slug": "main-activities",
       "description": "Diskusi meja bundar, sesi pleno akademik, dan pemaparan inovasi pembelajaran terbuka jarak jauh.",
-      "photos_count": 8
+      "photos_count": 10
     },
     {
       "id": 3,
       "name": "Networking & Collaboration",
       "slug": "networking-collaboration",
       "description": "Pertukaran gagasan lintas kampus, sesi bersama pembicara internasional, dan pameran karya mahasiswa.",
-      "photos_count": 14
+      "photos_count": 16
     },
     {
       "id": 4,
       "name": "Behind The Scenes",
       "slug": "behind-the-scenes",
       "description": "Momen hangat persiapan dan kebersamaan peserta di sela agenda utama El Hotel Bandung.",
-      "photos_count": 4
+      "photos_count": 5
     },
     {
       "id": 5,
@@ -55,6 +55,106 @@
   ],
   "featured": [
     {
+      "id": 41,
+      "title": "Keceriaan Finger-Heart Civitas FST di Ruang Sesi Paralel",
+      "description": "Dosen, tenaga kependidikan, dan mahasiswa FST UT Bandung berpose finger-heart dan salam hangat usai sesi pemaparan materi di El Hotel Bandung.",
+      "image_path": "photos/full/keceriaan-finger-heart-civitas-fst-di-ruang-sesi-paralel-4be4a163.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keceriaan-finger-heart-civitas-fst-di-ruang-sesi-paralel-4be4a163.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keceriaan-finger-heart-civitas-fst-di-ruang-sesi-paralel-4be4a163.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 1,
+      "published_at": "2026-11-09T05:58:02+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 42,
+      "title": "Simbol Kebanggaan UT: Pose Khas Delegasi FST di Ruang Pertemuan",
+      "description": "Seluruh tim civitas akademika FST UT Bandung kompak memperagakan gestur lambang UT di sela agenda workshop konferensi.",
+      "image_path": "photos/full/simbol-kebanggaan-ut-pose-khas-delegasi-fst-di-ruang-pertemuan-adb4b304.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/simbol-kebanggaan-ut-pose-khas-delegasi-fst-di-ruang-pertemuan-adb4b304.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/simbol-kebanggaan-ut-pose-khas-delegasi-fst-di-ruang-pertemuan-adb4b304.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 2,
+      "published_at": "2026-11-09T05:59:02+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 43,
+      "title": "Semangat Inovasi & Kolaborasi Tim FST Usai Diskusi Paralel",
+      "description": "Pose penuh energi dan kepalan tangan optimis dari civitas FST Universitas Terbuka Bandung merayakan kelancaran sesi presentasi riset.",
+      "image_path": "photos/full/semangat-inovasi-kolaborasi-tim-fst-usai-diskusi-paralel-24fd5d49.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/semangat-inovasi-kolaborasi-tim-fst-usai-diskusi-paralel-24fd5d49.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/semangat-inovasi-kolaborasi-tim-fst-usai-diskusi-paralel-24fd5d49.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 3,
+      "published_at": "2026-11-09T06:00:02+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 44,
+      "title": "Salam Sukses & Jempol Kompak Civitas FST di Ruang Workshop",
+      "description": "Jajaran pendidik dan mahasiswa FST UT Bandung memberikan salam jempol tanda keberhasilan rangkaian diskusi inovasi.",
+      "image_path": "photos/full/salam-sukses-jempol-kompak-civitas-fst-di-ruang-workshop-cf960ae6.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/salam-sukses-jempol-kompak-civitas-fst-di-ruang-workshop-cf960ae6.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-sukses-jempol-kompak-civitas-fst-di-ruang-workshop-cf960ae6.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 4,
+      "published_at": "2026-11-09T06:01:02+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 45,
+      "title": "Potret Keakraban Civitas Akademika FST UT Bandung di Ruang Pertemuan",
+      "description": "Momen hangat formasi lengkap dosen dan mahasiswa FST berkumpul bersama di ruang rapat El Hotel Bandung.",
+      "image_path": "photos/full/potret-keakraban-civitas-akademika-fst-ut-bandung-di-ruang-pertemuan-f65665fe.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-keakraban-civitas-akademika-fst-ut-bandung-di-ruang-pertemuan-f65665fe.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-keakraban-civitas-akademika-fst-ut-bandung-di-ruang-pertemuan-f65665fe.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 5,
+      "published_at": "2026-11-09T06:02:02+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
       "id": 36,
       "title": "Formasi Formal Tim Ormawa FST UT Bandung di Panggung INNODEL 2026",
       "description": "Lima perwakilan Organisasi Mahasiswa (Ormawa) FST Universitas Terbuka Bandung berpose formal dan berwibawa di panggung utama dengan sorotan lampu biru.",
@@ -66,7 +166,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 1,
+      "sort_order": 6,
       "published_at": "2026-11-09T05:49:49+00:00",
       "category": {
         "id": 3,
@@ -86,7 +186,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 2,
+      "sort_order": 7,
       "published_at": "2026-11-09T05:50:49+00:00",
       "category": {
         "id": 4,
@@ -106,7 +206,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 3,
+      "sort_order": 8,
       "published_at": "2026-11-09T05:51:49+00:00",
       "category": {
         "id": 3,
@@ -126,7 +226,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 4,
+      "sort_order": 9,
       "published_at": "2026-11-09T05:52:50+00:00",
       "category": {
         "id": 4,
@@ -146,7 +246,7 @@
       "aspect_ratio": 1.5015,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 5,
+      "sort_order": 10,
       "published_at": "2026-11-09T05:53:50+00:00",
       "category": {
         "id": 2,
@@ -166,7 +266,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 6,
+      "sort_order": 11,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -186,108 +286,8 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 7,
-      "published_at": "2026-11-09T04:38:41+00:00",
-      "category": {
-        "id": 3,
-        "name": "Networking & Collaboration",
-        "slug": "networking-collaboration"
-      }
-    },
-    {
-      "id": 33,
-      "title": "Kebersamaan Civitas FST dan Pembicara Kehormatan Internasional",
-      "description": "Momen kolaborasi berharga delegasi sains dan teknologi dalam perhelatan akbar di El Hotel Bandung.",
-      "image_path": "photos/full/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/kebersamaan-civitas-fst-dan-pembicara-kehormatan-internasional-3e6a787d.webp",
-      "width": 1024,
-      "height": 576,
-      "aspect_ratio": 1.7778,
-      "orientation": "landscape",
-      "is_featured": true,
-      "sort_order": 8,
-      "published_at": "2026-11-09T04:38:41+00:00",
-      "category": {
-        "id": 3,
-        "name": "Networking & Collaboration",
-        "slug": "networking-collaboration"
-      }
-    },
-    {
-      "id": 34,
-      "title": "Diskusi Meja Bundar Civitas FST di Grand Ballroom",
-      "description": "Peserta mengenakan busana batik dan busana adat mengikuti jalannya seminar internasional di bawah keanggunan ruang ballroom.",
-      "image_path": "photos/full/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/diskusi-meja-bundar-civitas-fst-di-grand-ballroom-106fbf9f.webp",
-      "width": 576,
-      "height": 1024,
-      "aspect_ratio": 0.5625,
-      "orientation": "portrait",
-      "is_featured": true,
-      "sort_order": 9,
-      "published_at": "2026-11-09T04:38:41+00:00",
-      "category": {
-        "id": 2,
-        "name": "Main Activities",
-        "slug": "main-activities"
-      }
-    },
-    {
-      "id": 35,
-      "title": "Potret Kehormatan Dosen & Mahasiswa FST di Bawah Chandelier",
-      "description": "Formasi resmi dosen pendamping dan delegasi mahasiswa FST berpose di depan backdrop panggung utama El Hotel Bandung.",
-      "image_path": "photos/full/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-kehormatan-dosen-mahasiswa-fst-di-bawah-chandelier-5bf46e05.webp",
-      "width": 576,
-      "height": 1024,
-      "aspect_ratio": 0.5625,
-      "orientation": "portrait",
-      "is_featured": true,
-      "sort_order": 10,
-      "published_at": "2026-11-09T04:38:41+00:00",
-      "category": {
-        "id": 1,
-        "name": "Opening Ceremony",
-        "slug": "opening-ceremony"
-      }
-    },
-    {
-      "id": 29,
-      "title": "Sidang Pleno Akbar & Delegasi Internasional di Grand Ballroom",
-      "description": "Potret megah seluruh pimpinan, pembicara internasional, dan ratusan delegasi memadati Grand Ballroom El Hotel Bandung.",
-      "image_path": "photos/full/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sidang-pleno-akbar-ballroom-utama-el-hotel-cdf6b324.webp",
-      "width": 1024,
-      "height": 682,
-      "aspect_ratio": 1.5015,
-      "orientation": "landscape",
-      "is_featured": true,
-      "sort_order": 11,
-      "published_at": "2026-11-09T00:18:51+00:00",
-      "category": {
-        "id": 1,
-        "name": "Opening Ceremony",
-        "slug": "opening-ceremony"
-      }
-    },
-    {
-      "id": 30,
-      "title": "Inovasi Produk & Semangat Mahasiswi FST UT Bandung",
-      "description": "Dua mahasiswi Fakultas Sains dan Teknologi memperlihatkan produk karya inovasi kreatif di stan pameran konferensi.",
-      "image_path": "photos/full/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/antusiasme-inovasi-produk-mahasiswi-fst-a60c71c3.webp",
-      "width": 682,
-      "height": 1024,
-      "aspect_ratio": 0.666,
-      "orientation": "portrait",
-      "is_featured": true,
       "sort_order": 12,
-      "published_at": "2026-11-09T00:18:51+00:00",
+      "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
         "name": "Networking & Collaboration",
@@ -297,6 +297,106 @@
   ],
   "photos": [
     {
+      "id": 41,
+      "title": "Keceriaan Finger-Heart Civitas FST di Ruang Sesi Paralel",
+      "description": "Dosen, tenaga kependidikan, dan mahasiswa FST UT Bandung berpose finger-heart dan salam hangat usai sesi pemaparan materi di El Hotel Bandung.",
+      "image_path": "photos/full/keceriaan-finger-heart-civitas-fst-di-ruang-sesi-paralel-4be4a163.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keceriaan-finger-heart-civitas-fst-di-ruang-sesi-paralel-4be4a163.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keceriaan-finger-heart-civitas-fst-di-ruang-sesi-paralel-4be4a163.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 1,
+      "published_at": "2026-11-09T05:58:02+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 42,
+      "title": "Simbol Kebanggaan UT: Pose Khas Delegasi FST di Ruang Pertemuan",
+      "description": "Seluruh tim civitas akademika FST UT Bandung kompak memperagakan gestur lambang UT di sela agenda workshop konferensi.",
+      "image_path": "photos/full/simbol-kebanggaan-ut-pose-khas-delegasi-fst-di-ruang-pertemuan-adb4b304.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/simbol-kebanggaan-ut-pose-khas-delegasi-fst-di-ruang-pertemuan-adb4b304.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/simbol-kebanggaan-ut-pose-khas-delegasi-fst-di-ruang-pertemuan-adb4b304.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 2,
+      "published_at": "2026-11-09T05:59:02+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 43,
+      "title": "Semangat Inovasi & Kolaborasi Tim FST Usai Diskusi Paralel",
+      "description": "Pose penuh energi dan kepalan tangan optimis dari civitas FST Universitas Terbuka Bandung merayakan kelancaran sesi presentasi riset.",
+      "image_path": "photos/full/semangat-inovasi-kolaborasi-tim-fst-usai-diskusi-paralel-24fd5d49.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/semangat-inovasi-kolaborasi-tim-fst-usai-diskusi-paralel-24fd5d49.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/semangat-inovasi-kolaborasi-tim-fst-usai-diskusi-paralel-24fd5d49.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 3,
+      "published_at": "2026-11-09T06:00:02+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
+      "id": 44,
+      "title": "Salam Sukses & Jempol Kompak Civitas FST di Ruang Workshop",
+      "description": "Jajaran pendidik dan mahasiswa FST UT Bandung memberikan salam jempol tanda keberhasilan rangkaian diskusi inovasi.",
+      "image_path": "photos/full/salam-sukses-jempol-kompak-civitas-fst-di-ruang-workshop-cf960ae6.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/salam-sukses-jempol-kompak-civitas-fst-di-ruang-workshop-cf960ae6.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-sukses-jempol-kompak-civitas-fst-di-ruang-workshop-cf960ae6.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 4,
+      "published_at": "2026-11-09T06:01:02+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 45,
+      "title": "Potret Keakraban Civitas Akademika FST UT Bandung di Ruang Pertemuan",
+      "description": "Momen hangat formasi lengkap dosen dan mahasiswa FST berkumpul bersama di ruang rapat El Hotel Bandung.",
+      "image_path": "photos/full/potret-keakraban-civitas-akademika-fst-ut-bandung-di-ruang-pertemuan-f65665fe.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/potret-keakraban-civitas-akademika-fst-ut-bandung-di-ruang-pertemuan-f65665fe.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/potret-keakraban-civitas-akademika-fst-ut-bandung-di-ruang-pertemuan-f65665fe.webp",
+      "width": 1024,
+      "height": 768,
+      "aspect_ratio": 1.3333,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 5,
+      "published_at": "2026-11-09T06:02:02+00:00",
+      "category": {
+        "id": 2,
+        "name": "Main Activities",
+        "slug": "main-activities"
+      }
+    },
+    {
       "id": 36,
       "title": "Formasi Formal Tim Ormawa FST UT Bandung di Panggung INNODEL 2026",
       "description": "Lima perwakilan Organisasi Mahasiswa (Ormawa) FST Universitas Terbuka Bandung berpose formal dan berwibawa di panggung utama dengan sorotan lampu biru.",
@@ -308,7 +408,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 1,
+      "sort_order": 6,
       "published_at": "2026-11-09T05:49:49+00:00",
       "category": {
         "id": 3,
@@ -328,7 +428,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 2,
+      "sort_order": 7,
       "published_at": "2026-11-09T05:50:49+00:00",
       "category": {
         "id": 4,
@@ -348,7 +448,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 3,
+      "sort_order": 8,
       "published_at": "2026-11-09T05:51:49+00:00",
       "category": {
         "id": 3,
@@ -368,7 +468,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 4,
+      "sort_order": 9,
       "published_at": "2026-11-09T05:52:50+00:00",
       "category": {
         "id": 4,
@@ -388,7 +488,7 @@
       "aspect_ratio": 1.5015,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 5,
+      "sort_order": 10,
       "published_at": "2026-11-09T05:53:50+00:00",
       "category": {
         "id": 2,
@@ -408,7 +508,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 6,
+      "sort_order": 11,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -428,7 +528,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 7,
+      "sort_order": 12,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -448,7 +548,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 8,
+      "sort_order": 13,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -468,7 +568,7 @@
       "aspect_ratio": 0.5625,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 9,
+      "sort_order": 14,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 2,
@@ -488,7 +588,7 @@
       "aspect_ratio": 0.5625,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 10,
+      "sort_order": 15,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 1,
@@ -508,7 +608,7 @@
       "aspect_ratio": 1.5015,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 11,
+      "sort_order": 16,
       "published_at": "2026-11-09T00:18:51+00:00",
       "category": {
         "id": 1,
@@ -528,7 +628,7 @@
       "aspect_ratio": 0.666,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 12,
+      "sort_order": 17,
       "published_at": "2026-11-09T00:18:51+00:00",
       "category": {
         "id": 3,
@@ -548,7 +648,7 @@
       "aspect_ratio": 0.751,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 13,
+      "sort_order": 18,
       "published_at": "2026-11-08T21:21:51+00:00",
       "category": {
         "id": 4,
@@ -568,7 +668,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 14,
+      "sort_order": 19,
       "published_at": "2026-11-08T21:20:51+00:00",
       "category": {
         "id": 1,
@@ -588,7 +688,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 15,
+      "sort_order": 20,
       "published_at": "2026-11-08T21:22:52+00:00",
       "category": {
         "id": 2,
@@ -608,7 +708,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 16,
+      "sort_order": 21,
       "published_at": "2026-11-08T21:23:52+00:00",
       "category": {
         "id": 3,
@@ -628,7 +728,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 17,
+      "sort_order": 22,
       "published_at": "2026-11-08T21:24:52+00:00",
       "category": {
         "id": 5,
@@ -648,7 +748,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 18,
+      "sort_order": 23,
       "published_at": "2026-11-08T21:25:53+00:00",
       "category": {
         "id": 5,
@@ -668,7 +768,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 19,
+      "sort_order": 24,
       "published_at": "2026-11-08T21:26:53+00:00",
       "category": {
         "id": 1,
@@ -688,7 +788,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 20,
+      "sort_order": 25,
       "published_at": "2026-11-08T21:27:53+00:00",
       "category": {
         "id": 2,
@@ -708,7 +808,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 21,
+      "sort_order": 26,
       "published_at": "2026-11-08T21:28:54+00:00",
       "category": {
         "id": 3,
@@ -728,7 +828,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 22,
+      "sort_order": 27,
       "published_at": "2026-11-08T21:29:55+00:00",
       "category": {
         "id": 3,
@@ -748,7 +848,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 23,
+      "sort_order": 28,
       "published_at": "2026-11-08T21:30:55+00:00",
       "category": {
         "id": 2,
@@ -768,7 +868,7 @@
       "aspect_ratio": 0.5625,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 24,
+      "sort_order": 29,
       "published_at": "2026-11-08T21:31:55+00:00",
       "category": {
         "id": 4,
@@ -788,7 +888,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 25,
+      "sort_order": 30,
       "published_at": "2026-11-08T21:32:56+00:00",
       "category": {
         "id": 5,
@@ -808,7 +908,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 26,
+      "sort_order": 31,
       "published_at": "2026-11-08T21:33:57+00:00",
       "category": {
         "id": 1,
@@ -828,7 +928,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 28,
+      "sort_order": 33,
       "published_at": "2026-11-08T21:35:57+00:00",
       "category": {
         "id": 1,
@@ -848,7 +948,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 29,
+      "sort_order": 34,
       "published_at": "2026-11-08T21:38:59+00:00",
       "category": {
         "id": 2,
@@ -868,7 +968,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 30,
+      "sort_order": 35,
       "published_at": "2026-11-08T21:37:59+00:00",
       "category": {
         "id": 2,
@@ -888,7 +988,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 31,
+      "sort_order": 36,
       "published_at": "2026-11-08T21:36:58+00:00",
       "category": {
         "id": 2,
@@ -908,7 +1008,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 32,
+      "sort_order": 37,
       "published_at": "2026-11-08T21:39:59+00:00",
       "category": {
         "id": 3,
@@ -928,7 +1028,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 33,
+      "sort_order": 38,
       "published_at": "2026-11-08T21:41:00+00:00",
       "category": {
         "id": 3,
@@ -948,7 +1048,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 35,
+      "sort_order": 40,
       "published_at": "2026-11-08T21:43:00+00:00",
       "category": {
         "id": 3,
@@ -968,7 +1068,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 36,
+      "sort_order": 41,
       "published_at": "2026-11-08T21:44:01+00:00",
       "category": {
         "id": 3,
@@ -988,7 +1088,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 37,
+      "sort_order": 42,
       "published_at": "2026-11-08T21:45:01+00:00",
       "category": {
         "id": 3,
@@ -1008,7 +1108,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 38,
+      "sort_order": 43,
       "published_at": "2026-11-08T21:46:02+00:00",
       "category": {
         "id": 5,
@@ -1028,7 +1128,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 39,
+      "sort_order": 44,
       "published_at": "2026-11-08T21:47:03+00:00",
       "category": {
         "id": 5,
