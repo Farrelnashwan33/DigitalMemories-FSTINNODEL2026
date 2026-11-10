@@ -11,10 +11,10 @@
     "tagline": "Every Moment Has a Story."
   },
   "stats": {
-    "total_published": 42,
+    "total_published": 45,
     "total_categories": 5,
     "total_featured": 12,
-    "filtered_count": 42
+    "filtered_count": 45
   },
   "categories": [
     {
@@ -36,14 +36,14 @@
       "name": "Networking & Collaboration",
       "slug": "networking-collaboration",
       "description": "Pertukaran gagasan lintas kampus, sesi bersama pembicara internasional, dan pameran karya mahasiswa.",
-      "photos_count": 16
+      "photos_count": 18
     },
     {
       "id": 4,
       "name": "Behind The Scenes",
       "slug": "behind-the-scenes",
       "description": "Momen hangat persiapan dan kebersamaan peserta di sela agenda utama El Hotel Bandung.",
-      "photos_count": 5
+      "photos_count": 6
     },
     {
       "id": 5,
@@ -55,6 +55,66 @@
   ],
   "featured": [
     {
+      "id": 46,
+      "title": "Momen Pendekatan & Keakraban Mahasiswa Sistem Informasi dan Ilmu Komputer",
+      "description": "Suasana hangat temu akrab delegasi mahasiswa Program Studi Sistem Informasi (SI) dan Ilmu Komputer (Ilkom) FST UT saat menikmati jamuan makan bersama di Grand Ballroom El Hotel Bandung.",
+      "image_path": "photos/full/momen-pendekatan-keakraban-mahasiswa-sistem-informasi-dan-ilmu-komputer-97b46c01.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/momen-pendekatan-keakraban-mahasiswa-sistem-informasi-dan-ilmu-komputer-97b46c01.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/momen-pendekatan-keakraban-mahasiswa-sistem-informasi-dan-ilmu-komputer-97b46c01.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 1,
+      "published_at": "2026-11-10T02:32:24+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 47,
+      "title": "Keceriaan Spontan Meja Delegasi SI dan Ilkom FST",
+      "description": "Ekspresi penuh tawa dan kebersamaan mahasiswa Sistem Informasi serta Ilmu Komputer saling berbagi cerita di sela jeda sesi konferensi INNODEL 2026.",
+      "image_path": "photos/full/keceriaan-spontan-meja-delegasi-si-dan-ilkom-fst-a5f5f678.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keceriaan-spontan-meja-delegasi-si-dan-ilkom-fst-a5f5f678.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keceriaan-spontan-meja-delegasi-si-dan-ilkom-fst-a5f5f678.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 2,
+      "published_at": "2026-11-10T02:33:24+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 48,
+      "title": "Harmoni Seni Tradisional: Kolaborasi Angklung Mahasiswa SI & Ilkom",
+      "description": "Swafoto ceria mahasiswi dan mahasiswa Sistem Informasi bersama Ilmu Komputer memegang alat musik tradisional angklung dalam perayaan budaya INNODEL 2026.",
+      "image_path": "photos/full/harmoni-seni-tradisional-kolaborasi-angklung-mahasiswa-si-ilkom-481fc7b3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/harmoni-seni-tradisional-kolaborasi-angklung-mahasiswa-si-ilkom-481fc7b3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/harmoni-seni-tradisional-kolaborasi-angklung-mahasiswa-si-ilkom-481fc7b3.webp",
+      "width": 576,
+      "height": 1024,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 3,
+      "published_at": "2026-11-10T02:34:24+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
       "id": 41,
       "title": "Keceriaan Finger-Heart Civitas FST di Ruang Sesi Paralel",
       "description": "Dosen, tenaga kependidikan, dan mahasiswa FST UT Bandung berpose finger-heart dan salam hangat usai sesi pemaparan materi di El Hotel Bandung.",
@@ -66,7 +126,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 1,
+      "sort_order": 4,
       "published_at": "2026-11-09T05:58:02+00:00",
       "category": {
         "id": 4,
@@ -86,7 +146,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 2,
+      "sort_order": 5,
       "published_at": "2026-11-09T05:59:02+00:00",
       "category": {
         "id": 3,
@@ -106,7 +166,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 3,
+      "sort_order": 6,
       "published_at": "2026-11-09T06:00:02+00:00",
       "category": {
         "id": 2,
@@ -126,7 +186,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 4,
+      "sort_order": 7,
       "published_at": "2026-11-09T06:01:02+00:00",
       "category": {
         "id": 3,
@@ -146,7 +206,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 5,
+      "sort_order": 8,
       "published_at": "2026-11-09T06:02:02+00:00",
       "category": {
         "id": 2,
@@ -166,7 +226,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 6,
+      "sort_order": 9,
       "published_at": "2026-11-09T05:49:49+00:00",
       "category": {
         "id": 3,
@@ -186,7 +246,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 7,
+      "sort_order": 10,
       "published_at": "2026-11-09T05:50:49+00:00",
       "category": {
         "id": 4,
@@ -206,7 +266,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 8,
+      "sort_order": 11,
       "published_at": "2026-11-09T05:51:49+00:00",
       "category": {
         "id": 3,
@@ -226,77 +286,77 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 9,
+      "sort_order": 12,
       "published_at": "2026-11-09T05:52:50+00:00",
       "category": {
         "id": 4,
         "name": "Behind The Scenes",
         "slug": "behind-the-scenes"
-      }
-    },
-    {
-      "id": 40,
-      "title": "Sesi Masterclass & Foto Bersama Andre Surya di El Hotel Bandung",
-      "description": "Peserta dan panitia berfoto bersama narasumber tamu Andre Surya (Founder Enspire / ASDA) usai pemaparan materi industri kreatif digital.",
-      "image_path": "photos/full/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/sesi-masterclass-foto-bersama-andre-surya-di-el-hotel-bandung-9bc969b4.webp",
-      "width": 1024,
-      "height": 682,
-      "aspect_ratio": 1.5015,
-      "orientation": "landscape",
-      "is_featured": true,
-      "sort_order": 10,
-      "published_at": "2026-11-09T05:53:50+00:00",
-      "category": {
-        "id": 2,
-        "name": "Main Activities",
-        "slug": "main-activities"
-      }
-    },
-    {
-      "id": 31,
-      "title": "Salam Inovasi UT Bersama Pembicara Internasional",
-      "description": "Delegasi mahasiswa FST bersama pembicara kehormatan global berpose salam UT di depan panggung utama INNODEL 2026.",
-      "image_path": "photos/full/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/salam-inovasi-ut-bersama-pembicara-internasional-30930c7a.webp",
-      "width": 1024,
-      "height": 576,
-      "aspect_ratio": 1.7778,
-      "orientation": "landscape",
-      "is_featured": true,
-      "sort_order": 11,
-      "published_at": "2026-11-09T04:38:41+00:00",
-      "category": {
-        "id": 3,
-        "name": "Networking & Collaboration",
-        "slug": "networking-collaboration"
-      }
-    },
-    {
-      "id": 32,
-      "title": "Keakraban Delegasi Muda FST Bersama Narasumber Global",
-      "description": "Suasana hangat dan penuh antusiasme mahasiswa UT berdiskusi santai bersama narasumber internasional.",
-      "image_path": "photos/full/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
-      "image_url": "http://localhost:8000/storage/photos/full/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
-      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keakraban-delegasi-muda-fst-bersama-narasumber-global-77b18980.webp",
-      "width": 1024,
-      "height": 576,
-      "aspect_ratio": 1.7778,
-      "orientation": "landscape",
-      "is_featured": true,
-      "sort_order": 12,
-      "published_at": "2026-11-09T04:38:41+00:00",
-      "category": {
-        "id": 3,
-        "name": "Networking & Collaboration",
-        "slug": "networking-collaboration"
       }
     }
   ],
   "photos": [
     {
+      "id": 46,
+      "title": "Momen Pendekatan & Keakraban Mahasiswa Sistem Informasi dan Ilmu Komputer",
+      "description": "Suasana hangat temu akrab delegasi mahasiswa Program Studi Sistem Informasi (SI) dan Ilmu Komputer (Ilkom) FST UT saat menikmati jamuan makan bersama di Grand Ballroom El Hotel Bandung.",
+      "image_path": "photos/full/momen-pendekatan-keakraban-mahasiswa-sistem-informasi-dan-ilmu-komputer-97b46c01.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/momen-pendekatan-keakraban-mahasiswa-sistem-informasi-dan-ilmu-komputer-97b46c01.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/momen-pendekatan-keakraban-mahasiswa-sistem-informasi-dan-ilmu-komputer-97b46c01.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 1,
+      "published_at": "2026-11-10T02:32:24+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
+      "id": 47,
+      "title": "Keceriaan Spontan Meja Delegasi SI dan Ilkom FST",
+      "description": "Ekspresi penuh tawa dan kebersamaan mahasiswa Sistem Informasi serta Ilmu Komputer saling berbagi cerita di sela jeda sesi konferensi INNODEL 2026.",
+      "image_path": "photos/full/keceriaan-spontan-meja-delegasi-si-dan-ilkom-fst-a5f5f678.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/keceriaan-spontan-meja-delegasi-si-dan-ilkom-fst-a5f5f678.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/keceriaan-spontan-meja-delegasi-si-dan-ilkom-fst-a5f5f678.webp",
+      "width": 1024,
+      "height": 576,
+      "aspect_ratio": 1.7778,
+      "orientation": "landscape",
+      "is_featured": true,
+      "sort_order": 2,
+      "published_at": "2026-11-10T02:33:24+00:00",
+      "category": {
+        "id": 4,
+        "name": "Behind The Scenes",
+        "slug": "behind-the-scenes"
+      }
+    },
+    {
+      "id": 48,
+      "title": "Harmoni Seni Tradisional: Kolaborasi Angklung Mahasiswa SI & Ilkom",
+      "description": "Swafoto ceria mahasiswi dan mahasiswa Sistem Informasi bersama Ilmu Komputer memegang alat musik tradisional angklung dalam perayaan budaya INNODEL 2026.",
+      "image_path": "photos/full/harmoni-seni-tradisional-kolaborasi-angklung-mahasiswa-si-ilkom-481fc7b3.webp",
+      "image_url": "http://localhost:8000/storage/photos/full/harmoni-seni-tradisional-kolaborasi-angklung-mahasiswa-si-ilkom-481fc7b3.webp",
+      "thumbnail_url": "http://localhost:8000/storage/photos/thumbs/harmoni-seni-tradisional-kolaborasi-angklung-mahasiswa-si-ilkom-481fc7b3.webp",
+      "width": 576,
+      "height": 1024,
+      "aspect_ratio": 0.5625,
+      "orientation": "portrait",
+      "is_featured": true,
+      "sort_order": 3,
+      "published_at": "2026-11-10T02:34:24+00:00",
+      "category": {
+        "id": 3,
+        "name": "Networking & Collaboration",
+        "slug": "networking-collaboration"
+      }
+    },
+    {
       "id": 41,
       "title": "Keceriaan Finger-Heart Civitas FST di Ruang Sesi Paralel",
       "description": "Dosen, tenaga kependidikan, dan mahasiswa FST UT Bandung berpose finger-heart dan salam hangat usai sesi pemaparan materi di El Hotel Bandung.",
@@ -308,7 +368,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 1,
+      "sort_order": 4,
       "published_at": "2026-11-09T05:58:02+00:00",
       "category": {
         "id": 4,
@@ -328,7 +388,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 2,
+      "sort_order": 5,
       "published_at": "2026-11-09T05:59:02+00:00",
       "category": {
         "id": 3,
@@ -348,7 +408,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 3,
+      "sort_order": 6,
       "published_at": "2026-11-09T06:00:02+00:00",
       "category": {
         "id": 2,
@@ -368,7 +428,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 4,
+      "sort_order": 7,
       "published_at": "2026-11-09T06:01:02+00:00",
       "category": {
         "id": 3,
@@ -388,7 +448,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 5,
+      "sort_order": 8,
       "published_at": "2026-11-09T06:02:02+00:00",
       "category": {
         "id": 2,
@@ -408,7 +468,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 6,
+      "sort_order": 9,
       "published_at": "2026-11-09T05:49:49+00:00",
       "category": {
         "id": 3,
@@ -428,7 +488,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 7,
+      "sort_order": 10,
       "published_at": "2026-11-09T05:50:49+00:00",
       "category": {
         "id": 4,
@@ -448,7 +508,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 8,
+      "sort_order": 11,
       "published_at": "2026-11-09T05:51:49+00:00",
       "category": {
         "id": 3,
@@ -468,7 +528,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 9,
+      "sort_order": 12,
       "published_at": "2026-11-09T05:52:50+00:00",
       "category": {
         "id": 4,
@@ -488,7 +548,7 @@
       "aspect_ratio": 1.5015,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 10,
+      "sort_order": 13,
       "published_at": "2026-11-09T05:53:50+00:00",
       "category": {
         "id": 2,
@@ -508,7 +568,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 11,
+      "sort_order": 14,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -528,7 +588,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 12,
+      "sort_order": 15,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -548,7 +608,7 @@
       "aspect_ratio": 1.7778,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 13,
+      "sort_order": 16,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 3,
@@ -568,7 +628,7 @@
       "aspect_ratio": 0.5625,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 14,
+      "sort_order": 17,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 2,
@@ -588,7 +648,7 @@
       "aspect_ratio": 0.5625,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 15,
+      "sort_order": 18,
       "published_at": "2026-11-09T04:38:41+00:00",
       "category": {
         "id": 1,
@@ -608,7 +668,7 @@
       "aspect_ratio": 1.5015,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 16,
+      "sort_order": 19,
       "published_at": "2026-11-09T00:18:51+00:00",
       "category": {
         "id": 1,
@@ -628,7 +688,7 @@
       "aspect_ratio": 0.666,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 17,
+      "sort_order": 20,
       "published_at": "2026-11-09T00:18:51+00:00",
       "category": {
         "id": 3,
@@ -648,7 +708,7 @@
       "aspect_ratio": 0.751,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 18,
+      "sort_order": 21,
       "published_at": "2026-11-08T21:21:51+00:00",
       "category": {
         "id": 4,
@@ -668,7 +728,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 19,
+      "sort_order": 22,
       "published_at": "2026-11-08T21:20:51+00:00",
       "category": {
         "id": 1,
@@ -688,7 +748,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 20,
+      "sort_order": 23,
       "published_at": "2026-11-08T21:22:52+00:00",
       "category": {
         "id": 2,
@@ -708,7 +768,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 21,
+      "sort_order": 24,
       "published_at": "2026-11-08T21:23:52+00:00",
       "category": {
         "id": 3,
@@ -728,7 +788,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 22,
+      "sort_order": 25,
       "published_at": "2026-11-08T21:24:52+00:00",
       "category": {
         "id": 5,
@@ -748,7 +808,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 23,
+      "sort_order": 26,
       "published_at": "2026-11-08T21:25:53+00:00",
       "category": {
         "id": 5,
@@ -768,7 +828,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 24,
+      "sort_order": 27,
       "published_at": "2026-11-08T21:26:53+00:00",
       "category": {
         "id": 1,
@@ -788,7 +848,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 25,
+      "sort_order": 28,
       "published_at": "2026-11-08T21:27:53+00:00",
       "category": {
         "id": 2,
@@ -808,7 +868,7 @@
       "aspect_ratio": 1.3333,
       "orientation": "landscape",
       "is_featured": true,
-      "sort_order": 26,
+      "sort_order": 29,
       "published_at": "2026-11-08T21:28:54+00:00",
       "category": {
         "id": 3,
@@ -828,7 +888,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 27,
+      "sort_order": 30,
       "published_at": "2026-11-08T21:29:55+00:00",
       "category": {
         "id": 3,
@@ -848,7 +908,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 28,
+      "sort_order": 31,
       "published_at": "2026-11-08T21:30:55+00:00",
       "category": {
         "id": 2,
@@ -868,7 +928,7 @@
       "aspect_ratio": 0.5625,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 29,
+      "sort_order": 32,
       "published_at": "2026-11-08T21:31:55+00:00",
       "category": {
         "id": 4,
@@ -888,7 +948,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": true,
-      "sort_order": 30,
+      "sort_order": 33,
       "published_at": "2026-11-08T21:32:56+00:00",
       "category": {
         "id": 5,
@@ -908,7 +968,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 31,
+      "sort_order": 34,
       "published_at": "2026-11-08T21:33:57+00:00",
       "category": {
         "id": 1,
@@ -928,7 +988,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 33,
+      "sort_order": 36,
       "published_at": "2026-11-08T21:35:57+00:00",
       "category": {
         "id": 1,
@@ -948,7 +1008,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 34,
+      "sort_order": 37,
       "published_at": "2026-11-08T21:38:59+00:00",
       "category": {
         "id": 2,
@@ -968,7 +1028,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 35,
+      "sort_order": 38,
       "published_at": "2026-11-08T21:37:59+00:00",
       "category": {
         "id": 2,
@@ -988,7 +1048,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 36,
+      "sort_order": 39,
       "published_at": "2026-11-08T21:36:58+00:00",
       "category": {
         "id": 2,
@@ -1008,7 +1068,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 37,
+      "sort_order": 40,
       "published_at": "2026-11-08T21:39:59+00:00",
       "category": {
         "id": 3,
@@ -1028,7 +1088,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 38,
+      "sort_order": 41,
       "published_at": "2026-11-08T21:41:00+00:00",
       "category": {
         "id": 3,
@@ -1048,7 +1108,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 40,
+      "sort_order": 43,
       "published_at": "2026-11-08T21:43:00+00:00",
       "category": {
         "id": 3,
@@ -1068,7 +1128,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 41,
+      "sort_order": 44,
       "published_at": "2026-11-08T21:44:01+00:00",
       "category": {
         "id": 3,
@@ -1088,7 +1148,7 @@
       "aspect_ratio": 0.7505,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 42,
+      "sort_order": 45,
       "published_at": "2026-11-08T21:45:01+00:00",
       "category": {
         "id": 3,
@@ -1108,7 +1168,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 43,
+      "sort_order": 46,
       "published_at": "2026-11-08T21:46:02+00:00",
       "category": {
         "id": 5,
@@ -1128,7 +1188,7 @@
       "aspect_ratio": 0.75,
       "orientation": "portrait",
       "is_featured": false,
-      "sort_order": 44,
+      "sort_order": 47,
       "published_at": "2026-11-08T21:47:03+00:00",
       "category": {
         "id": 5,
